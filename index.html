@@ -134,12 +134,17 @@ comments: false
                                 <i class="fa fa fa-twitter"></i>
                                 </a>
                                 </div>
+                                <div class="text-center">
+                                <button type="button" class="btn btn-default btn-sm" onclick="sharetofb({{tweettext}})">facebook</button>
+                                <i class="fa fa fa-facebook"></i>
+                                </a>
+                                </div>
                                 <div class="tweet">
                                 {% endif %}
                                     {% if point.comments %}
                                         <a href="{{point.comments}}" target="_blank" rel="nofollow" class="btn btn-default btn-sm"><i class="fa fa-comments text-muted"></i>&nbsp;Comment</a>
                                     {% endif %}
-								</div>
+                                </div>
                                 </td>
                             </tr>
                             {% endfor %}
