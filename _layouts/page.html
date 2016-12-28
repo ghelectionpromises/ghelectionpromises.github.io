@@ -121,13 +121,15 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
         <!-- Main JavaScript -->
         <script>
-            $(document).ready(function () {
-                $.ajaxSetup({ cache: true });
-                $.getScript('//connect.facebook.net/en_US/sdk.js', function(){
+                $(document).ready(function() {
+                  $.ajaxSetup({ cache: true });
+                  $.getScript('//connect.facebook.net/en_US/sdk.js', function(){
                     FB.init({
-                    appId: '223258854782118',
-                    version: 'v2.7' // or v2.1, v2.2, v2.3, ...
-                 });
+                      appId: '223258854782118',
+                      version: 'v2.7' // or v2.1, v2.2, v2.3, ...
+                    });
+                  });
+                });
                 // temp fix for table alignment
                 $('html > head').append($('<style>tbody > tr:nth-child(1) > td:nth-child(2) { width:100%; }</style>'));
                 // tabs
