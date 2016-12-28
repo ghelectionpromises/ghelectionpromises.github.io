@@ -127,10 +127,10 @@ comments: false
                                 <td class="tweet">
                                     {% capture status %}{% if point.status == "notStarted" %} hasn't started {%elsif point.status == "broken" %} broke {% elsif point.status == "achieved" %} achieved {% else %}{% endif %}{% endcapture %}
 
-                                    {% capture message %}@NAkufoAddo{{ status }}promise no. {% increment issue_number %}: {{ point.text }} on{% endcapture %}{% capture tweettext%}{{ message }}{% endcapture %}
+                                    {% capture message %}@NAkufoAddo has promised to: {{ point.text }} on{% endcapture %}{% capture tweettext%}{{ message }}{% endcapture %}
                                     {% if point.status %}
                                     <div class="text-center">
-                                        <a class="btn btn-default btn-sm" href="https://twitter.com/share?url=http://tracker.ghelectionpromises.com/&text={{ point.text | truncate: 102 | url_encode }}&hashtags=GhanaDecides" target="_blank">
+                                        <a class="btn btn-default btn-sm" href="https://twitter.com/share?url=http://tracker.ghelectionpromises.com/&text={{ tweettext | truncate: 102 | url_encode }}&hashtags=GhanaDecides" target="_blank">
                                             <i class="fa fa fa-twitter"></i>
                                         </a>
                                     </div>
