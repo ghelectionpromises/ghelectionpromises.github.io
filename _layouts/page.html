@@ -121,17 +121,22 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
         <!-- Main JavaScript -->
         <script>
-                $(document).ready(function() {
-                  $.ajaxSetup({ cache: true });
-                  $.getScript('//connect.facebook.net/en_US/sdk.js', function(){
-                    FB.init({
-                      appId: '223258854782118',
-                      version: 'v2.7' // or v2.1, v2.2, v2.3, ...
-                    });
-                  });
-                });
+            $(document).ready(function() {
+                $.ajaxSetup({ cache: true });
+                $.getScript('//connect.facebook.net/en_US/sdk.js', function(){
+                FB.init({
+                appId: '1177034922332004',
+                version: 'v2.7'
+            });
+          });
+        });
+        </script>
+        <script>
+            $(document).ready(function () {
+
                 // temp fix for table alignment
                 $('html > head').append($('<style>tbody > tr:nth-child(1) > td:nth-child(2) { width:100%; }</style>'));
+
                 // tabs
                 $('#myTabs a').click(function (e) {
                     e.preventDefault()
@@ -140,6 +145,7 @@
                 $(function () {
                     $('[data-toggle="tooltip"]').tooltip()
                 });
+
                 // search function
                 $("div.tab-pane input.search").keyup(function () {
                     var search = $(this).val().toLowerCase();
@@ -179,10 +185,13 @@
                                         //prevents duplicate heading titles
                                         display_heading = false;
                                     }
+
                                     // Default display class for all list items to be added
                                     var displayClass = "list-group-item";
+
                                     // Get the class of the table row for this td element
                                     var rowClass = $(this).parent().prop('className');
+
                                     // Not empty implies it is either danger (broken policy)
                                     // or success (achieved policy)
                                     if (rowClass !== "") {
@@ -200,11 +209,14 @@
                 $("form.navbar-form").submit(function(e){
                     e.preventDefault();
                 });
+
                 var oneDay = 24 * 60 * 60 * 1000; // hours*minutes*seconds*milliseconds
                 var todayDate = Date.now();
                 // Inaguration date
-                var inagurationDate = new Date(2017,00,007);
+                var inagurationDate = new Date(2017,00,07);
+
                 var daysUntilInaguration = Math.floor((inagurationDate.getTime() - todayDate)/(oneDay));
+
                 if (daysUntilInaguration === 0) {
                     $('#inauguration-time').text('Inauguration day is today.');
                 } else if (daysUntilInaguration > 0) {
@@ -212,11 +224,13 @@
                 } else {
                     $('.inauguration-time-container').hide();
                 }
+
                 var daysInOffice = Math.floor((todayDate - inagurationDate)/(oneDay));
                 if (daysInOffice < 0) {
                     daysInOffice = 0;
                 }
                 $('#days-in-office').text(daysInOffice);
+
                 // Parse site data.json
                 var siteData = JSON.parse($('#site-data').html());
                 var totalPoints = 0;
@@ -224,6 +238,7 @@
                 var pointsInProgress = 0;
                 var pointsAchieved = 0;
                 var pointsBroken = 0;
+
                 for(var i = 0; i < siteData.tabs.length; i++) {
                     for(var j = 0; j < siteData.tabs[i].sections.length; j++) {
                         for(var k = 0; k < siteData.tabs[i].sections[j].points.length; k++) {
@@ -241,6 +256,7 @@
                         }
                     }
                 }
+
                 $('.total-points').text(totalPoints || '0');
                 $('#points-achieved').text(pointsAchieved || '0');
                 $('#points-broken').text(pointsBroken || '0');
@@ -251,15 +267,14 @@
         <script>
 
             var sharetofb = function(txt){
-                /*FB.ui({
+                FB.ui({
                 method: 'share',
                 mobile_iframe: true,
                 href: 'http://tracker.ghelectionpromises.com/',
                 quote: txt,
                 hashtag: '#GhanaDecides',
-              }, function(response){});*/
-                alert(txt);
-            }
+              }, function(response){});
+            };
         </script>
     </body>
 </html>
