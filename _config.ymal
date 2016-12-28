@@ -1,0 +1,23 @@
+title: Gh Election Promises Tracker
+email: info@ghelectionpromises.com
+description: > # this means to ignore newlines until "baseurl:"
+  Track NPP's 2016 Election Promises with Gh Election Promises Tracker
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: dotkwame
+github_username:  ghelectionpromises
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: css/partials
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
