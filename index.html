@@ -21,88 +21,88 @@ comments: false
                     </b>
                 </li>
                 <li class="list-group-item list-group-item">
-                <i class="fa fa-calendar fa-fw"></i>
-                <b>Days In Office:
-                <span id="days-in-office"></span>
-                </b>
+                    <i class="fa fa-calendar fa-fw"></i>
+                    <b>Days In Office:
+                        <span id="days-in-office"></span>
+                    </b>
                 </li>
                 <li class="list-group-item list-group-item-info">
-                <i class="fa fa-hourglass-start fa-fw"></i>
-                Not Yet Started: <span id="points-not-started"></span> of <span class="total-points"></span>
+                    <i class="fa fa-hourglass-start fa-fw"></i>
+                    Not Yet Started: <span id="points-not-started"></span> of <span class="total-points"></span>
                 </li>
                 <li class="list-group-item list-group-item-warning">
-                <i class="fa fa-cogs fa-fw"></i>
-                In Progress:
-                <span id="points-in-progress"></span>
-                of <span class="total-points"></span>
+                    <i class="fa fa-cogs fa-fw"></i>
+                    In Progress:
+                    <span id="points-in-progress"></span>
+                    of <span class="total-points"></span>
                 </li>
                 <li class="list-group-item list-group-item-success">
-                <i class="fa fa-check-circle-o fa-fw"></i>
-                Achieved: <span id="points-achieved"></span>
-                of  <span class="total-points"> </span></li>
-                <li class="list-group-item list-group-item-danger">
-                <i class="fa fa-ban fa-fw"></i>
-                Broken: <span id="points-broken"></span> of <span class="total-points"></span>
-                </li>
-            </ul>
-            <p>
-                On Wednesday December 9th, 2016, Nana Akufu-Addo elections to be president of Ghana for his first term spanning four (4) years.
-                <br /><br />
-                There were a lot of promises made on the campaign trail. Ghana Election Promises Tracker will fact-check and see if he adheres to all of his stands on policies regarding culture, immigration, economy, and many more.
-            </p>
-
-            <div>
-                <ul class="list-inline">
-                    <li>
-                        <a href="http://www.facebook.com/sharer.php?u=http://ghelectionpromises.com/" target="_blank" style="color:#3b5998;">
-                            <i class="fa fa-2x fa-facebook-square"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://plus.google.com/share?url=http://ghelectionpromises.com/" target="_blank" style="color:#dd4b39;">
-                            <i class="fa fa-2x fa-google-plus"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://twitter.com/share?url=http://ghelectionpromises.com/&amp;text=Track&nbsp;NPP&apos;s&nbsp;Election&nbsp;Promises&nbsp;with&nbsp;Gh&nbsp;Election&nbsp;Promises&nbsp;Tracker.&amp;hashtags=ghanadecides" target="_blank" style="color:#1da1f2;">
-                            <i class="fa fa-2x fa-twitter"></i>
-                        </a>
+                    <i class="fa fa-check-circle-o fa-fw"></i>
+                    Achieved: <span id="points-achieved"></span>
+                    of  <span class="total-points"> </span></li>
+                    <li class="list-group-item list-group-item-danger">
+                        <i class="fa fa-ban fa-fw"></i>
+                        Broken: <span id="points-broken"></span> of <span class="total-points"></span>
                     </li>
                 </ul>
-            </div>
+                <p>
+                    On Wednesday December 9th, 2016, Nana Akufu-Addo elections to be president of Ghana for his first term spanning four (4) years.
+                    <br /><br />
+                    There were a lot of promises made on the campaign trail. Ghana Election Promises Tracker will fact-check and see if he adheres to all of his stands on policies regarding culture, immigration, economy, and many more.
+                </p>
 
-        </div>
-        <div class="col-md-6">
-            <img src="assets/npp_img.jpg" class="img-responsive center-block" alt="NPP Election Poster." />
+                <div>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="http://www.facebook.com/sharer.php?u=http://ghelectionpromises.com/" target="_blank" style="color:#3b5998;">
+                                <i class="fa fa-2x fa-facebook-square"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://plus.google.com/share?url=http://ghelectionpromises.com/" target="_blank" style="color:#dd4b39;">
+                                <i class="fa fa-2x fa-google-plus"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/share?url=http://ghelectionpromises.com/&amp;text=Track&nbsp;NPP&apos;s&nbsp;Election&nbsp;Promises&nbsp;with&nbsp;Gh&nbsp;Election&nbsp;Promises&nbsp;Tracker.&amp;hashtags=ghanadecides" target="_blank" style="color:#1da1f2;">
+                                <i class="fa fa-2x fa-twitter"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+            <div class="col-md-6">
+                <img src="assets/npp_img.jpg" class="img-responsive center-block" alt="NPP Election Poster." />
+            </div>
         </div>
     </div>
-</div>
-<br />
-<div class="container-fluid">
-    <div class="row">
-        <ul class="nav nav-tabs" id="myTabs" role="tablist">
-            {% for tab in site.data.data.tabs %}
+    <br />
+    <div class="container-fluid">
+        <div class="row">
+            <ul class="nav nav-tabs" id="myTabs" role="tablist">
+                {% for tab in site.data.data.tabs %}
                 <li role="presentation" class="{{tab.id}} {% if forloop.index == 1 %}active{% endif %}">
                     <a href="#{{tab.id}}" aria-controls="{{tab.id}}" role="tab" data-toggle="tab">
                         <i class="fa fa-{{tab.icon}}"></i>&nbsp;{{tab.name}}
                     </a>
                 </li>
-            {% endfor %}
-        </ul>
-    </div>
-    <div>
-        <!-- Tab panes -->
-        <div class="tab-content">
-            {% for tab in site.data.data.tabs %}
-             <!-- {% increment issue_number %} -->
-              <div role="tabpanel" class="tab-pane {% if forloop.index == 1 %}active{% endif %} fade in" id="{{tab.id}}">
+                {% endfor %}
+            </ul>
+        </div>
+        <div>
+            <!-- Tab panes -->
+            <div class="tab-content">
+                {% for tab in site.data.data.tabs %}
+                <!-- {% increment issue_number %} -->
+                <div role="tabpanel" class="tab-pane {% if forloop.index == 1 %}active{% endif %} fade in" id="{{tab.id}}">
                   <div class="row">
-                  <div class="input-group">
-                    <div class="input-group-addon"><span>Search </span></div>
-                    <input type="search" placeholder="keyword" class="form-control search"/>
-                  </div>
+                      <div class="input-group">
+                        <div class="input-group-addon"><span>Search </span></div>
+                        <input type="search" placeholder="keyword" class="form-control search"/>
+                    </div>
                     {% for section in tab.sections %}
-                      <table class="table table-striped">
+                    <table class="table table-striped">
                         <thead>
                             <tr>
                                 <td></td>
@@ -112,47 +112,47 @@ comments: false
                         </thead>
                         <tbody>
                             {% for point in section.points %}
-                            <tr class="{% if point.status == 'broken' %}danger{% endif %} {% if point.status == 'achieved' %}success{% endif %}">
+                            <tr class="promiseitem {% if point.status == 'broken' %}danger{% endif %} {% if point.status == 'achieved' %}success{% endif %}">
                                 <th>{{forloop.index}}</th>
                                 <td>
-                                    <a href="{{point.source}}">{{point.text}}</a>
+                                    <a class="electionpromise" href="{{point.source}}">{{point.text}}</a>
                                     {% for citation in point.citations %}
-                                        {% if point.citations[0] != '' %}
-                                                <sup>
-                                                <a href="{{point.citations[0]}}" target="_blank" rel="nofollow">{{forloop.index}}</a>
-                                                </sup>
-                                        {% endif %}
-                                {% endfor %}
+                                    {% if point.citations[0] != '' %}
+                                    <sup>
+                                        <a href="{{point.citations[0]}}" target="_blank" rel="nofollow">{{forloop.index}}</a>
+                                    </sup>
+                                    {% endif %}
+                                    {% endfor %}
                                 </td>
                                 <td class="tweet">
                                     {% capture status %}{% if point.status == "notStarted" %} hasn't started {%elsif point.status == "broken" %} broke {% elsif point.status == "achieved" %} achieved {% else %}{% endif %}{% endcapture %}
 
                                     {% capture message %}@NAkufoAddo{{ status }}promise no. {% increment issue_number %}: {{ point.text }} on{% endcapture %}{% capture tweettext%}{{ message }}{% endcapture %}
-                                {% if point.status %}
-                                <div class="text-center">
-                                <a class="btn btn-default btn-sm" href="https://twitter.com/share?url=http://tracker.ghelectionpromises.com/&text={{ tweettext | truncate: 102 | url_encode }}&hashtags=GhanaDecides" target="_blank">
-                                <i class="fa fa fa-twitter"></i>
-                                </a>
-                                </div>
-                                <div class="text-center">
-                                <button class="btn btn-default btn-sm" target="_blank" onclick='sharetofb("{{ tweettext | url_encode}}")'>
-                                <i class="fa fa fa-facebook"></i>
-                                </button>
-                                </div>
-                                <div class="tweet">
-                                {% endif %}
-                                    {% if point.comments %}
+                                    {% if point.status %}
+                                    <div class="text-center">
+                                        <a class="btn btn-default btn-sm" href="https://twitter.com/share?url=http://tracker.ghelectionpromises.com/&text={{ tweettext | truncate: 102 | url_encode }}&hashtags=GhanaDecides" target="_blank">
+                                            <i class="fa fa fa-twitter"></i>
+                                        </a>
+                                    </div>
+                                    <div class="text-center">
+                                        <button class="btn btn-default btn-sm" target="_blank" onclick="sharetofb(this)">
+                                            <i class="fa fa fa-facebook"></i>
+                                        </button>
+                                    </div>
+                                    <div class="tweet">
+                                        {% endif %}
+                                        {% if point.comments %}
                                         <!--<a href="{{point.comments}}" target="_blank" rel="nofollow" class="btn btn-default btn-sm"><i class="fa fa-comments text-muted"></i>&nbsp;Comment</a>-->
-                                    {% endif %}
-                                </div>
+                                        {% endif %}
+                                    </div>
                                 </td>
                             </tr>
                             {% endfor %}
                         </tbody>
-                      </table>
+                    </table>
                     {% endfor %}
-                  </div>
-              </div>
+                </div>
+            </div>
             {% endfor %}
         </div>
     </div>
