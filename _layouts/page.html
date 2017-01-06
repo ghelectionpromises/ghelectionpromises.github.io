@@ -264,7 +264,7 @@ var sharetofb = function(obj){
                 method: 'share',
                 mobile_iframe: true,
                 href: 'http://ghelectionpromises.com/tracker',
-                quote: 'Nana Addo has promised to ' + $(obj).closest('tr').find('a.electionpromise').text(),
+                quote: 'Nana Addo has promised: ' + $(obj).closest('tr').find('a.electionpromise').text(),
                 hashtag: '#GhElectionPromises',
             }, function(response){});
 };
