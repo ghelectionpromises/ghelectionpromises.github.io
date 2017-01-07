@@ -544,7 +544,7 @@ tabs:
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
- -
+   -
     id: growthinfrastructure
     name: Growth and Infrastructure
     icon: industry
@@ -799,4 +799,3 @@ tabs:
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
         
-
