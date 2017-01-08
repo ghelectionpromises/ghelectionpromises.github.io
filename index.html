@@ -90,7 +90,7 @@ comments: false
             <ul class="nav nav-tabs" id="myTabs" role="tablist">
                 {% for tab in site.data.data.tabs %}
                 <li role="presentation" class="{{tab.id}} {% if forloop.index == 1 %}active{% endif %}">
-                    <a href="#{{tab.id}}" aria-controls="{{tab.id}}" role="tab" data-toggle="tab">
+                    <a target="_blank" href="#{{tab.id}}" aria-controls="{{tab.id}}" role="tab" data-toggle="tab">
                         <i class="fa fa-{{tab.icon}}"></i>&nbsp;{{tab.name}}
                     </a>
                 </li>
@@ -122,7 +122,7 @@ comments: false
                             <tr class="promiseitem {% if point.status == 'broken' %}danger{% endif %} {% if point.status == 'achieved' %}success{% endif %}">
                                 <th>{{forloop.index}}</th>
                                 <td>
-                                    <a class="electionpromise" href="{{point.source}}">{{point.text}}</a>
+                                    <a target="_blank" class="electionpromise" href="{{point.source}}">{{point.text}}</a>
                                     {% for citation in point.citations %}
                                     {% if point.citations[0] != '' %}
                                     <sup>
