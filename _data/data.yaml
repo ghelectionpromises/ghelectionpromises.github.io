@@ -10,12 +10,12 @@ tabs:
         points:
           -
             text: 'Focus on appointing competent people to “immediately manage the country and the economy”'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-01-26'
             citations:
               - 'http://pulse.com.gh/politics/election-2016-bawumia-highlights-what-npp-would-do-first-100-days-in-office-id5134329.html'
             comments: ''
-            source: 'http://pulse.com.gh/politics/election-2016-bawumia-highlights-what-npp-would-do-first-100-days-in-office-id5134329.html'
+            source: 'http://www.nanaakufoaddo.org/index.php/643-appointments-by-the-president-elect-to-the-office-of-the-president'
           -
             text: 'Concentrate on getting monies wrongfully paid and ensuring fiscal discipline and spending them efficiently'
             status: notStarted
