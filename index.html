@@ -119,7 +119,7 @@ comments: false
                         </thead>
                         <tbody>
                             {% for point in section.points %}
-                            <tr class="promiseitem {% if promise.status == 'In progress' %}warning{% endif %} {% if point.status == 'broken' %}danger{% endif %} {% if point.status == 'achieved' %}success{% endif %}">
+                            <tr class="{% if point.status == 'inProgress' %}warning{% endif %} {% if point.status == 'broken' %}danger{% endif %} {% if point.status == 'achieved' %}success{% endif %}">
                                 <th>{{forloop.index}}</th>
                                 <td>
                                     <a target="_blank" class="electionpromise" href="{{point.source}}">{{point.text}}</a>
