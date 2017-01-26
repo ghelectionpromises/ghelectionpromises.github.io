@@ -98,7 +98,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Abolish the Special Import Levy'
-            status: notStarted
+            status: broken
             update: "%Y-%m-%d"
             citations:
               - ''
