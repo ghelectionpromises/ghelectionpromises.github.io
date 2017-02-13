@@ -798,3 +798,686 @@ tabs:
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
+  -
+    id: naturalresources
+    name: 'Natural Resources'
+    icon: tree
+    sections:
+      -
+        header: ''
+        points:
+          -
+            text: 'Target 30,000 hectares (ha) of degraded areas annually within and outside forest reserves for reforestation and plantation development'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
+
+            text: 'Support the annual establishment of 1,000 hectares of bamboo and rattan plantations and encourage individuals and private sector involvement through the provision of subsidized planting materials'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
+
+            text: 'Establish the Clean Rivers Programme (CRP) to protect our water catchment areas'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
+
+            text: 'Commit to ensuring that turnaround time for land registration is reduced to 30 working days'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
+
+            text: 'Enact a consolidated Mineral Revenue Management Law, to guide the use of mineral revenues in strategic sectors of our economy'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
+
+            text: 'Structure the small scale mining industry so that its activities can take place within guidelines set up under the appropriate regulations.'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
+
+            text: 'Support the enhancement of the ecotourism industry'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
+
+  -
+    id: techinnovation
+    name: 'Technology'
+    icon: space-shuttle
+    sections:
+      -
+        header: 'Science, Technology, Innovation and the Environment'
+        points:
+          -
+            text: 'Establish a Presidential Advisory Council for Science and Technology (PACST) as an advisory group to directly advise the President on all matters and policies regarding science, technology and innovation'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Science-Technology-Innovation-and-the-Environment'
+
+            text: 'Establish Regional Technology Parks to expand the research and development capabilities of the country'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Science-Technology-Innovation-and-the-Environment'
+
+            text: 'Establish at least 3 Ghana Centres of Excellence (GCEs) across the country by the end of 2020 covering various themes including biomedical engineering, electronics and electronic assembly, building technology and energy engineering'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Science-Technology-Innovation-and-the-Environment'
+
+            text: 'Expand STEM scholarships to support the national policy of achieving 60:40 student ratio for the Sciences as compared to the Humanities'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Science-Technology-Innovation-and-the-Environment'
+
+  -
+    id: education
+    name: 'Education'
+    icon: graduation-cap
+    sections:
+      -
+        header: ''
+        points:
+          -
+            text: 'Create a Consultative Council which includes researchers, industry and banks to take research findings from the laboratory to the market'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Establish a Manufacturing Plant at the Kwame Nkrumah University of Science and Technology to build prototypes of the inventions and creations of scientists and innovators in the country'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Reintegrate physical education and recreation into mainstream education.'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Ensure that kindergarten places are available for all four-year old children in the country'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Make basic education free to all Ghanaians including Senior High School'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Ensure that teachers’ salaries and allowances are paid regularly and on time'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Collaborate with GNAT, NAGRAT, and other teaching associations to facilitate an affordable housing scheme for teachers'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Ensure that teachers who upgrade their qualifications and skills are promoted promptly and their salary increases effected immediately'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Restore allowances to Arabic/Islamic instructors and introduce Arabic as an optional examinable language at JHS and SHS levels'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Provide sporting facilities and revive sporting competitions among schools'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Improve the facilities and the curriculum for ICT education at all levels'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Provide free Wifi coverage for senior secondary and tertiary institutions nationwide'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Increase the amount of loans under the Student Loan Scheme'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Establish a Research Fund and restore the Book and Research allowances for lecturers'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Abolish the payment of utility bills by students'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+            text: 'Restore in full, teacher trainee allowances'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
+
+  -
+    id: health
+    name: 'Health'
+    icon: heartbeat
+    sections:
+      -
+        header: ''
+        points:
+          -
+            text: 'Revive the NHIS to make it efficient in a bid to achieve universal health coverage for all Ghanaians'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+            text: 'Invest in the expansion and equiping of medical schools to train more medical doctors'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+            text: 'Restore trainee nurses’ allowances in full'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+            text: 'Provide free specialist postgraduate training in our established postgraduate training institutions'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+            text: 'Restore and streamline tax reliefs to facilitate the purchase of vehicles by healthcare workers'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+            text: 'Build an Accident and Emergency Centre in Takoradi'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+            text: 'Aim for each district to have at least one hospital and upgrade all existing district hospitals'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+            text: 'Establish a world class Research & Laboratory Centre'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+            text: 'Work with the private sector to establish trauma centres within hospitals along the main highways to facilitate medical treatment of citizens in cases of accidents'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+            text: 'Make sure existing hospitals and clinics are adequately supplied with basic drugs, gloves, syringes, oxygen, and anti-snake serum'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+            text: 'Establish centres at all levels of our healthcare delivery system for screening, diagnosis, early detection and prevention of cancers, paid for under the restructured and revitalised NHIS'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+            text: 'Implement a comprehensive plan for the safe disposal of biomedical waste'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+            text: 'Incorporate traditional medicine in the health delivery system'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
+
+  -
+    id: socialdevelopment
+    name: 'Social Development'
+    icon: balance-scale
+    sections:
+      -
+        header: ''
+        points:
+          -
+            text: 'Amend the Disability Act to bring it in line with the UN Convention on Disability, and pass appropriate Legislative Instruments for the implementation of the Mental Health Act, 2012 (Act 846) and the Disability Act, 2006 (Act 715)'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
+
+            text: 'Enforce section 18 of the Disability Act that provides for free education for persons with disability'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
+
+            text: 'Require caterers in the Ghana School Feeding Programme to buy and use foodstuff from local farmers'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
+
+            text: 'Fully implement section 103 (assignment of pension benefits for housing of workers) of the National Pensions Act, 2008 (Act 766)'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
+
+            text: 'Pay all outstanding contributions to pension funds for public sector workers'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
+
+            text: 'Use information technology to decentralise and automate pension payments and establish desks in each District Assembly for this purpose'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
+
+            text: 'Provide the aged with a Freedom Pass to enable them ride for free on all public transportation'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
+
+            text: 'Appoint women to at least 30% of available public office positions'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
+
+            text: 'Set aside 50% of Microfinance and Small Loan Centre (MASLOC) funds for female applicants'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
+
+            text: 'Introduce a District Integrated Social Services programme to manage social welfare'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
+
+            text: 'Reduce the Kayayei (Head Porters) phenomenon. Initiatives include providing training and exemption from market tolls'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
+
+  -
+    id: accountability
+    name: 'Accountability'
+    icon: clock-o
+    sections:
+      -
+        header: 'Governance, Corruption and Public Accountability'
+        points:
+          -
+            text: 'Establish, by an Act of Parliament, an Office of the Special Prosecutor to investigate and prosecute political officeholders and politicians involved in corruption'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
+
+            text: 'Require the President to within 14 days, forward a list of appointments, made in pursuant of Chapter 24 of the Constitution, to the Auditor General, that the Auditor General publish periodically the list of all persons appointed under Chapter 24 of the Constitution'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
+
+            text: 'Amend the law relating to asset declaration to provide for sanctions which may include forfeiture of appointment'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
+
+            text: 'Establish an automatic mechanism for transfer of statutory funds to designated agencies such as GETFund as stipulated by law.'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
+
+            text: 'Amend sections 3, 151,and 239-257 of the Criminal Offences Act, 1960 (Act29), to make corruption a felony rather than a misdemeanour'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
+
+            text: 'Reform laws to set time limits within which an appointing authority must fill any vacancy or confirm a person acting in that office where that institution has a watchdog role'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
+
+            text: 'Ensure the strict enforcement of the Public Procurement Act, 2003 (Act 663)'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
+
+            text: 'Ensure the passage of the Right to Information bill'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
+
+            text: 'Ensure transparency by establishing a transaction price database'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
+
+            text: 'Sponsor the establishment of an interactive website for public reporting of corrupt practices in accordance with the Whistle Blower’s Act, 2006 (Act 720)'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
+
+  -
+    id: localgovernment
+    name: 'Local Government'
+    icon: institution
+    sections:
+      -
+        header: ''
+        points:
+          -
+            text: 'Oversee the direct election of Metropolitan, Municipal and District Chief Executives (MMDCEs) within 24 months of election into office, to coincide with the next District Assembly elections in 2019'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/16/NPP-Manifesto-Highlights---On-Local-Government'
+
+            text: 'Strengthen the role of traditional authorities within the local government system'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/16/NPP-Manifesto-Highlights---On-Local-Government'
+
+            text: 'Improve allowances paid to assembly members'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/16/NPP-Manifesto-Highlights---On-Local-Government'
+
+            text: 'Upgrade the Tamale campus of Institute of Local Government Service (ILGS) into a modern state-of the-art institute'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/16/NPP-Manifesto-Highlights---On-Local-Government'
+
+            text: 'Ensure the speedy enactment of the Municipal Finance Bill'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/16/NPP-Manifesto-Highlights---On-Local-Government'
+
+            text: 'Ensure the consolidation of all existing national sanitation policies, plans and programmes into a Comprehensive National Sanitation Programme and Action Plan, and establish a National Sanitation Fund to fund this'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/01/16/NPP-Manifesto-Highlights---On-Local-Government'
+
+  -
+    id: campaigntrail
+    name: 'Campaign Promises'
+    icon: hourglass
+    sections:
+      -
+        header: 'Promises on the Campaign Trail (not in the manifesto)'
+        points:
+          -
+            text: 'NPP will refund monies of DKM creditors – Obiri Boahen'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://citifmonline.com/2016/10/24/npp-will-refund-monies-of-dkm-creditors-obiri-boahen/'
