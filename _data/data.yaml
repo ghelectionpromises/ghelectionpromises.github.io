@@ -1463,6 +1463,430 @@ tabs:
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/16/NPP-Manifesto-Highlights---On-Local-Government'
+            
+  -
+    id: youthsports
+    name: 'Youth and Sports'
+    icon: futbol-o
+    sections:
+      -
+        header: ''
+        points:
+          -
+            text: 'Set up a Youth Development Authority (YDA) to harmonise and coordinate all government-sponsored youth initiatives and policies'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Establish a Youth Enterprises Fund (YEF) that will provide funding and business development services for businesses owned by young entrepreneurs, especially start-ups'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Develop industrial parks in all regions targeting young Ghanaians, who start or wish to start small businesses'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Offer tax incentives to young entrepreneurs to encourage them to initiate start-ups'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Introduce  tax credits and other incentives for companies that hire young graduates from tertiary institutions'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Concentrate on ICT training to create job avenues locally and offshore for our youth'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Institute a Buy-Local policy for Government agencies with regards to ICT to ensure that applications and software are procured from local ICT firms'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Modernize sports through the provision of the right legal framework, by enacting the comprehensive Sports Bill initiated under President Kufuor'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Ensure that District Assemblies fully participate in sports development and promotion'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Develop, in partnership with the private sector, Youth Development & Sports Centres in all Regions. Each centre will house a fully-equipped library, ICT hub, social hall, multi-purpose pitches and courts'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Complete the construction of the University of Ghana stadium started by the Kufuor-led NPP government'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Pursue the vision of providing modern multi-sport stadia for the regions currently without one, namely Brong Ahafo, Eastern, Upper East, Upper West and Volta'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Establish a special unit at the Ministry to develop and promote sporting disciplines other than football, and to concentrate on the revival of school sports'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Encourage the private sector to provide funding for sports through the establishment of incentive packages, as well creating a Sports Fund to support the financing of sports'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Establish three sports colleges in collaboration with the private sector'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Develop a Youth in Sports module to support young sportsmen and women and to create job opportunities for them'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+          -
+            text: 'Invest in a special Women-In-Sports programme to help unearth and support female athletes and sports talents across the country'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
+
+  -
+    id: tourism
+    name: 'Tourism and Arts'
+    icon: plane
+    sections:
+      -
+        header: ''
+        points:
+          -
+            text: 'Pursue a deliberate marketing programme to promote our unique historical sites, flora and fauna, waterfalls and other cultural artefacts'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'Take the staffing of these tourist sites and our hospitality industry as a whole seriously'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'Partner with the private sector to set up a state-of-the-art hospitality teaching facility, with an operational hotel, classrooms, kitchens, library, and dormitories'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'Encourage local communities to take ownership and be invested in the sustainability of tourist attractions in their localities'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'Champion a revenue-sharing programme to inject 5% of  tourism revenues from fees of well-developed tourist attractions into local community projects'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'Transform the Ghana Tourist Authority into a modern, efficient research and marketing institution with the necessary technical resources and funds to help project the image of Ghana as a globally-recognized tourism brand'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'Reactivate and resource the Ghana Museums and Monuments Board to function effectively as a repository of both our cultural and historical records'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'Pursue an ecotourism policy that enables us make these sites available whilst protecting the ecosystem'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'Invest in Tourism IT as an enabler, to improve knowledge and the sharing of information about tourism opportunities in the country'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'The Culture Policy will be reviewed and actively implemented to give our culture pride of place in our national development'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'We will build a detailed inventory of all our cultural assets, so the nation has a database of these assets'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'The NPP will ensure that the provisions regarding the protection of Kente and Adinkra designs are strictly enforced against illicit exploitation by foreign interests'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'Establish a Creative Arts Fund'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: The NPP will collaborate with the Chief Justice to create a Division of the High Court, focusing on the Creative Arts to deal with all matters relating to intellectual property rights, complete with a dedicated enforcement unit'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'Establish a Creative Arts Council to coordinate and harmonize the various interests and fragmented associations into a well-functioning body to protect the interests of members'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'The NPP will collaborate with private sector interests to acquire the technology and equipment needed to log creative works, in order to determine true and deserved royalties'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'Pursue the construction of modern large seating theatres in every regional capital except Accra, beginning with Takoradi, Tamale and Kumasi'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+          -
+            text: 'The government will set up an additional Copyright Office in Tamale to cater for the northern sector in addition to the existing ones in Accra and Kumasi'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
+
+  -
+    id: chieftaincy
+    name: 'Chieftaincy, Religion and Society'
+    icon: sun-o
+    sections:
+      -
+        header: ''
+        points:
+          -
+            text: 'Ensure the prompt payment of royalties due Chiefs, Queen Mothers and Traditional Councils'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
+          -
+            text: 'Provide government support to the institution of Chieftaincy in the performance of their duties, their evolution and further modernization'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
+          -
+            text: 'Support the National House of Chiefs to codify and systematize traditional laws and culture'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
+          -
+            text: 'Involve Chiefs, Queen Mothers and Traditional Authorities in the afforestation and greening of Ghana with the support of the Forestry Commission'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
+          -
+            text: 'Foster a collaboration of Government agencies and traditional leaders that will centre on the protection of water bodies and conservation of the environment'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
+          -
+            text: 'Forge a new and formal collaboration between Chiefs, Queen Mothers and Traditional Authorities with NADMO, so that relief assistance can be better managed in our local communities during natural disasters and other emergencies'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
+          -
+            text: 'Consult traditional authorities on appointments to local government institutions'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
+          -
+            text: 'Ensure that religious bodies in the health sector receive their NHIS payments promptly and we commit to payments of existing debts expeditiously'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
+          -
+            text: 'Create the enabling legislative and economic environment for philanthropy to blossom and promote a new era of giving'
+            status: notStarted
+            update: '%Y-%m-%d'
+            citations:
+              - ''
+              - ''
+            comments: ''
+            source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
+
   -
     id: campaigntrail
     name: 'Campaign Promises'
