@@ -18,26 +18,26 @@ tabs:
             source: 'http://pulse.com.gh/politics/election-2016-bawumia-highlights-what-npp-would-do-first-100-days-in-office-id5134329.html'
           -
             text: 'Concentrate on getting monies wrongfully paid and ensuring fiscal discipline and spending them efficiently'
-            status: notStarted
-            update: "%Y-%m-%d"
+            status: inProgress
+            update: "2017-06-15"
             citations:
-              - 'http://www.a1radioonline.com/2016/12/12/this-is-what-president-elect-nana-akufo-addo-will-be-doing-in-his-first-100-days/'
+              - 'http://www.myjoyonline.com/politics/2017/June-15th/pac-lauds-supreme-court-ruling-to-retrieve-looted-state-funds.php'
             comments: ''
             source: 'http://www.a1radioonline.com/2016/12/12/this-is-what-president-elect-nana-akufo-addo-will-be-doing-in-his-first-100-days/'
           -
-            text: ' The NPP would move “quickly to initiate the National Identification Scheme” which is very “key to formalizing the economy and regenerating taxes” in the country.'
-            status: notStarted
-            update: "%Y-%m-%d"
+            text: 'The NPP would move “quickly to initiate the National Identification Scheme” which is very “key to formalizing the economy and regenerating taxes” in the country.'
+            status: inProgress
+            update: "2017-09-15"
             citations:
-              - 'http://pulse.com.gh/politics/election-2016-bawumia-highlights-what-npp-would-do-first-100-days-in-office-id5134329.html'
+              - 'http://citifmonline.com/2017/09/15/nana-addo-receives-first-id-card-as-nia-registration-kicks-off/'
             comments: ''
             source: 'http://pulse.com.gh/politics/election-2016-bawumia-highlights-what-npp-would-do-first-100-days-in-office-id5134329.html'
           -
             text: 'Settle all debts owed to Ghanaian contractors'
-            status: notStarted
-            update: "%Y-%m-%d"
+            status: inProgress
+            update: "2017-07-6"
             citations:
-              - 'http://www.ghanaguardian.com/npp-govt-will-pay-contractual-debt-100-days-akufo-addo/'
+              - 'http://citifmonline.com/2017/07/06/govt-releases-gh¢600m-to-pay-road-contractors/'
             comments: ''
             source: 'http://www.ghanaguardian.com/npp-govt-will-pay-contractual-debt-100-days-akufo-addo/'
   -
@@ -50,11 +50,11 @@ tabs:
         points:
           -
             text: 'Achieve double digit GDP growth annually for the next four years'
-            status: notStarted
-            update: "%Y-%m-%d"
+            status: inProgress
+            update: "2017-03-2"
             citations:
-              - ''
-              - ''
+              - ''http://citifmonline.com/2017/03/02/economy-projected-to-grow-by-6-3-in-2017/''
+                   
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
