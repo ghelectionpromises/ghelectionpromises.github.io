@@ -9,7 +9,7 @@ tabs:
         header: 'Contract with the Ghanaian Voter - 100 Day Plan'
         points:
           -
-            text: 'Focus on appointing competent people to “immediately manage the country and the economy”'
+            text: 'Focus on appointing competent people to “immediately manage the country and the economy - Acheived”'
             status: achieved
             update: '2017-05-14'
             citations:
@@ -68,9 +68,9 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Formalize the economy through the establishment of a national database, using the National Identification System as the primary identifier, with linkages to the databases of institutions such as the Police, National Health Insurance Scheme (NHIS), Passport Office, Immigration, Courts, Ghana Revenue Authority (GRA), and the Driver and Vehicle Licensing Authority (DVLA)'
-            status: notStarted
-            update: "%Y-%m-%d"
-            citations:
+            status: inProgress
+            update: "2017-08-17"
+            citations: "http://citifmonline.com/2017/09/15/nana-addo-receives-first-id-card-as-nia-registration-kicks-off/"
               - ''
               - ''
             comments: ''
@@ -81,26 +81,26 @@ tabs:
           -
             text: 'An NPP government will reduce the corporate tax rate from 25% to 20%'
             status: notStarted
-            update: "%Y-%m-%d"
-            citations:
+            update: "2017-07-13"
+            citations: "https://www.myjoyonline.com/business/2017/september-13th/govt-promises-more-tax-reductions-in-2018-budget.php"
               - ''
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'The NPP government will remove import duties on raw materials and machinery for production within the context of the ECOWAS Common External Tariff (CET) Protocol'
-            status: notStarted
-            update: "%Y-%m-%d"
-            citations:
+            status: achieved
+            update: "2017-03-2"
+            citations: "http://www.myjoyonline.com/politics/2017/March-2nd/akufo-addo-to-abolish-8-taxes-re-adjust-4.php"
               - ''
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Abolish the Special Import Levy'
-            status: notStarted
-            update: "%Y-%m-%d"
-            citations:
+            status: achieved
+            update: "2017-03-2"
+            citations: "http://www.myjoyonline.com/politics/2017/March-2nd/akufo-addo-to-abolish-8-taxes-re-adjust-4.php"
               - ''
               - ''
             comments: ''
@@ -108,8 +108,8 @@ tabs:
           -
             text: 'Abolish the 17.5% VAT on imported medicines not produced in the country'
             status: notStarted
-            update: "%Y-%m-%d"
-            citations:
+            update: "2017-05-15"
+            citations: "https://www.myjoyonline.com/business/2017/september-13th/govt-promises-more-tax-reductions-in-2018-budget.php"
               - ''
               - ''
             comments: ''
