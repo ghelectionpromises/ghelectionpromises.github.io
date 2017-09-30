@@ -19,7 +19,7 @@ tabs:
           -
             text: 'Concentrate on getting monies wrongfully paid and ensuring fiscal discipline and spending them efficiently'
             status: inProgress
-            update: "2017-06-15"
+            update: '2017-06-15'
             citations:
               - 'http://www.myjoyonline.com/politics/2017/June-15th/pac-lauds-supreme-court-ruling-to-retrieve-looted-state-funds.php'
             comments: ''
@@ -27,7 +27,7 @@ tabs:
           -
             text: 'The NPP would move “quickly to initiate the National Identification Scheme” which is very “key to formalizing the economy and regenerating taxes” in the country.'
             status: inProgress
-            update: "2017-09-15"
+            update: '2017-09-15'
             citations:
               - 'http://citifmonline.com/2017/09/15/nana-addo-receives-first-id-card-as-nia-registration-kicks-off/'
             comments: ''
@@ -35,7 +35,7 @@ tabs:
           -
             text: 'Settle all debts owed to Ghanaian contractors'
             status: inProgress
-            update: "2017-07-6"
+            update: '2017-07-6'
             citations:
               - 'http://citifmonline.com/2017/07/06/govt-releases-gh¢600m-to-pay-road-contractors/'
             comments: ''
@@ -51,10 +51,10 @@ tabs:
           -
             text: 'Achieve double digit GDP growth annually for the next four years'
             status: inProgress
-            update: "2017-03-2"
+            update: '2017-03-2'
             citations:
-              - ''http://citifmonline.com/2017/03/02/economy-projected-to-grow-by-6-3-in-2017/''
-                   
+              - 'http://citifmonline.com/2017/03/02/economy-projected-to-grow-by-6-3-in-2017/'
+              - ''                   
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
@@ -70,8 +70,8 @@ tabs:
             text: 'Formalize the economy through the establishment of a national database, using the National Identification System as the primary identifier, with linkages to the databases of institutions such as the Police, National Health Insurance Scheme (NHIS), Passport Office, Immigration, Courts, Ghana Revenue Authority (GRA), and the Driver and Vehicle Licensing Authority (DVLA)'
             status: inProgress
             update: "2017-08-17"
-            citations: "http://citifmonline.com/2017/09/15/nana-addo-receives-first-id-card-as-nia-registration-kicks-off/"
-              - ''
+            citations: 
+              - 'http://citifmonline.com/2017/09/15/nana-addo-receives-first-id-card-as-nia-registration-kicks-off/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
@@ -90,7 +90,7 @@ tabs:
           -
             text: 'The NPP government will remove import duties on raw materials and machinery for production within the context of the ECOWAS Common External Tariff (CET) Protocol'
             status: achieved
-            update: "2017-03-2"
+            update: '2017-03-2'
             citations: "http://www.myjoyonline.com/politics/2017/March-2nd/akufo-addo-to-abolish-8-taxes-re-adjust-4.php"
               - ''
               - ''
@@ -99,7 +99,7 @@ tabs:
           -
             text: 'Abolish the Special Import Levy'
             status: achieved
-            update: "2017-03-2"
+            update: '2017-03-2'
             citations: "http://www.myjoyonline.com/politics/2017/March-2nd/akufo-addo-to-abolish-8-taxes-re-adjust-4.php"
               - ''
               - ''
