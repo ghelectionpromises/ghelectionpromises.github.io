@@ -60,7 +60,7 @@ tabs:
           -
             text: 'An NPP government will enact a Fiscal Responsibility Law (FRL) to   bring comprehensiveness, accountability, transparency and stability to the entire budgetary process.'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -69,8 +69,8 @@ tabs:
           -
             text: 'Formalize the economy through the establishment of a national database, using the National Identification System as the primary identifier, with linkages to the databases of institutions such as the Police, National Health Insurance Scheme (NHIS), Passport Office, Immigration, Courts, Ghana Revenue Authority (GRA), and the Driver and Vehicle Licensing Authority (DVLA)'
             status: inProgress
-            update: "2017-08-17"
-            citations: 
+            update: '2017-08-17'
+            citations:
               - 'http://citifmonline.com/2017/09/15/nana-addo-receives-first-id-card-as-nia-registration-kicks-off/'
               - ''
             comments: ''
@@ -81,8 +81,8 @@ tabs:
           -
             text: 'An NPP government will reduce the corporate tax rate from 25% to 20%'
             status: notStarted
-            update: "2017-07-13"
-            citations: "https://www.myjoyonline.com/business/2017/september-13th/govt-promises-more-tax-reductions-in-2018-budget.php"
+            update: '2017-07-13'
+            citations: 'https://www.myjoyonline.com/business/2017/september-13th/govt-promises-more-tax-reductions-in-2018-budget.php'
               - ''
               - ''
             comments: ''
@@ -91,8 +91,8 @@ tabs:
             text: 'The NPP government will remove import duties on raw materials and machinery for production within the context of the ECOWAS Common External Tariff (CET) Protocol'
             status: achieved
             update: '2017-03-2'
-            citations: "http://www.myjoyonline.com/politics/2017/March-2nd/akufo-addo-to-abolish-8-taxes-re-adjust-4.php"
-              - ''
+            citations: 
+              - 'http://www.myjoyonline.com/politics/2017/March-2nd/akufo-addo-to-abolish-8-taxes-re-adjust-4.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
@@ -100,24 +100,24 @@ tabs:
             text: 'Abolish the Special Import Levy'
             status: achieved
             update: '2017-03-2'
-            citations: "http://www.myjoyonline.com/politics/2017/March-2nd/akufo-addo-to-abolish-8-taxes-re-adjust-4.php"
-              - ''
+            citations: 
+              - 'http://www.myjoyonline.com/politics/2017/March-2nd/akufo-addo-to-abolish-8-taxes-re-adjust-4.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Abolish the 17.5% VAT on imported medicines not produced in the country'
             status: notStarted
-            update: "2017-05-15"
-            citations: "https://www.myjoyonline.com/business/2017/september-13th/govt-promises-more-tax-reductions-in-2018-budget.php"
-              - ''
+            update: '2017-05-15'
+            citations: 
+              - 'https://www.myjoyonline.com/business/2017/september-13th/govt-promises-more-tax-reductions-in-2018-budget.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Abolish the 17.5% VAT on Financial Services'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -126,7 +126,7 @@ tabs:
           -
             text: 'Abolish the 5% VAT on Real Estate sales'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -135,7 +135,7 @@ tabs:
           -
             text: 'Abolish the 17.5% VAT on domestic airline tickets'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -144,7 +144,7 @@ tabs:
           -
             text: 'Reducing VAT for micro and small enterprises from the current 17.5% to the 3% Flat Rate VAT introduced by the Kufuor-led NPP government'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -153,7 +153,7 @@ tabs:
           -
             text: 'Introducing tax credits and other incentives for businesses that hire young graduates from tertiary institutions'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -162,7 +162,7 @@ tabs:
           -
             text: 'Reviewing with holding taxes imposed on various sectors (including the mining sector) that have constrained the liquidity of many businesses'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -174,7 +174,7 @@ tabs:
           -
             text: 'Broadening of the tax base as a result of formalization of the economy'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -183,7 +183,7 @@ tabs:
           -
             text: 'Increase in tax compliance'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -192,7 +192,7 @@ tabs:
           -
             text: 'Reduced government expenditure as a result of increased collaboration with the private sector and prioritization of government expenditure'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -201,7 +201,7 @@ tabs:
           -
             text: 'Savings from the reduction of interest rates paid on the country’s debt stock'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -210,7 +210,7 @@ tabs:
           -
             text: 'Increase in oil and gas revenues from TEN and SANKOFA fields'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -219,7 +219,7 @@ tabs:
           -
             text: 'Elimination of corruption, especially in procurement of goods and services, which is estimated at about 1.5% of GDP annually'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -228,7 +228,7 @@ tabs:
           -
             text: 'Plugging leakages in the administration of public finances. The Auditor General’s Report has indicated that between 2012 and 2014, GH¢5.9 billion of government funds cannot be accounted for'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -245,7 +245,7 @@ tabs:
           -
             text: 'Pursuing aggressive industrialization and value-addition to agricultural produce'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -254,7 +254,7 @@ tabs:
           -
             text: 'Providing tax and related incentives for manufacturing businesses in sectors such as agro-processing, light industries, pharmaceuticals, petrochemicals, garments and textiles, among others'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -263,7 +263,7 @@ tabs:
           -
             text: 'Providing a reliable and cost effective mix of energy supply for businesses'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -272,7 +272,7 @@ tabs:
           -
             text: 'Pursuing policies that will reduce interest rates'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -281,7 +281,7 @@ tabs:
           -
             text: 'Implementing policies that will reduce the cost of doing business'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -290,7 +290,7 @@ tabs:
           -
             text: 'Stabilizing the currency'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -299,7 +299,7 @@ tabs:
           -
             text: 'Providing incentives to the hospitality and creative industries that will enable them create jobs'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -308,7 +308,7 @@ tabs:
           -
             text: 'Investing in skills training and apprenticeships'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -317,7 +317,7 @@ tabs:
           -
             text: 'Promoting exports, especially of value-added agricultural produce and light manufactures'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -329,7 +329,7 @@ tabs:
           -
             text: 'Establishing an Industrial Development Fund (IDF) to finance critical private sector industrial initiatives'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -338,7 +338,7 @@ tabs:
           -
             text: 'Re-orient energy tariff policy to reduce the burden on businesses'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -347,7 +347,7 @@ tabs:
           -
             text: 'Launch a comprehensive National Plan for Entrepreneurship and Innovation that will invest in supporting young businesses and start-ups'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -356,7 +356,7 @@ tabs:
           -
             text: 'Develop, in collaboration with trade unions, a database for trained apprentices and artisans, and establish a National Apprentice Recruitment Agency'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -365,7 +365,7 @@ tabs:
           -
             text: 'Creating an information portal and set up a task force to assist our youth and artisans in making their products and services visible on a local, national, and global scale.'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -374,7 +374,7 @@ tabs:
           -
             text: 'Implement the “One District, One Factory” Initiative'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -383,7 +383,7 @@ tabs:
           -
             text: 'Pass legislation to require that at least 70% of all Government of Ghana, taxpayer-financed contracts and procurements be executed by local corporate entities'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -392,7 +392,7 @@ tabs:
           -
             text: 'In addition to the above introduce a policy requiring that 30% of the required 70% be sourced from entities owned by women, persons with disability, and those established under the Youth Enterprise Fund (YEF)'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -409,7 +409,7 @@ tabs:
           -
             text: 'End “DUMSOR” in the short-term, through government liquidity injection, restructuring of debts, and securing of firm commitments for the reliable supply of fuel'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -418,7 +418,7 @@ tabs:
           -
             text: 'Reduce taxes on electricity tariffs to provide immediate relief to households and industry'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -427,7 +427,7 @@ tabs:
           -
             text: 'Conduct a technical audit on all power sector infrastructure and develop and implement a 10-year Power Sector Master Plan to meet our medium to long-term energy needs'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -436,7 +436,7 @@ tabs:
           -
             text: 'Develop and implement an Energy Sector Financial Restructuring and Recovery Plan, incorporating, a liquidity management mechanism for VRA, Electricity Company of Ghana (ECG), Northern Electricity Department (NED) and the Bulk Oil Distribution Companies, BDCs'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -445,7 +445,7 @@ tabs:
           -
             text: 'Ensure that there is sufficient Reserve Margin – the safety cushion we need to prevent blackouts – to ensure the stability of the system'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -454,7 +454,7 @@ tabs:
           -
             text: 'Build solar parks in the northern part of the country. To achieve this, we will provide investment tax credits to owners of commercial, industrial, and utility scale solar photovoltaic (PV) systems to take a one-time tax credit of qualified installed costs'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -463,7 +463,7 @@ tabs:
           -
             text: 'Ensure local supply of solar panels to meet the requirement of our policy proposals, by establishing a Renewable Energy Industrial Zone where the private sector will be supported to build factories for the production and assembling of the full components of solar power systems'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -475,7 +475,7 @@ tabs:
           -
             text: 'Improve transparency in the management of our oil and gas resources with the passing of the Right to Information Bill'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -484,7 +484,7 @@ tabs:
           -
             text: 'Accelerate oil exploration in the Voltarian Basin (Northern, Volta, Ashanti, Eastern, and Brong Ahafo), as well as in the Keta and Accra Basins to enhance Ghana’s potential for increasing oil and gas production and to build these areas into industrial growth poles'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -493,7 +493,7 @@ tabs:
           -
             text: 'Develop the Western Region into a regional oil services hub with a first class port facility, as well as the relocation of the headquarters of GNPC to the region'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -502,7 +502,7 @@ tabs:
           -
             text: 'Aggressively invest in education and skills enhancement of Ghanaians to manage the oil and gas sector under an “Accelerated Oil Capacity Development Programme”'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -511,7 +511,7 @@ tabs:
           -
             text: 'Support the growth of local competition by redeeming government obligations to the bulk oil distribution companies'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -520,7 +520,7 @@ tabs:
           -
             text: 'Between 2017 and 2020, primarily allocate revenue from oil to infrastructure, health, education and agriculture'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -529,7 +529,7 @@ tabs:
           -
             text: 'Leverage oil revenue to complete the Accra-Kumasi-Paga rail line connections and the rehabilitation of the Western and Eastern Rail Lines'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -538,7 +538,7 @@ tabs:
           -
             text: 'Review and further amend the Petroleum Revenue Management Act 2011 (Act 815) to support investment of revenue from oil in high-impact strategic social and economic infrastructure'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -555,7 +555,7 @@ tabs:
           -
             text: 'Restructuring of the Royalty Sharing Ratios with Mining Communities to increase the share of revenues that mining communities currently receive in royalty payments to 20% from the current 10%'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -564,7 +564,7 @@ tabs:
           -
             text: 'Creation of a new, “Western North” Administrative Region in order to open it up for accelerated development'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -573,7 +573,7 @@ tabs:
           -
             text: 'Establishment of a Coastal Development Authority (CDA)'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -582,7 +582,7 @@ tabs:
           -
             text: 'Establishment of a Middle Belt Development Authority (MBA)'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -591,7 +591,7 @@ tabs:
           -
             text: 'Restructuring of the Savannah Accelerated Development Authority (SADA)” to the original design and mandate of the Northern Development Authority (NDA)'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -600,7 +600,7 @@ tabs:
           -
             text: 'Establishment of a Zongo Development Fund to invest in education, training, improved infrastructure (targetting health and sanitation), support local businesses and community security.'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -609,7 +609,7 @@ tabs:
           -
             text: 'Implement the Infrastructure for Poverty Eradication Programme (IPEP) under which every constituency will be allocated the equivalent of $1 million annually for developmental work'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -621,7 +621,7 @@ tabs:
           -
             text: 'Establish the National Asset Protection Project'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -630,7 +630,7 @@ tabs:
           -
             text: 'Development of interconnected Roads, Railways, Ports & Harbours (RRHPs) Systems'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -639,7 +639,7 @@ tabs:
           -
             text: 'Development of an aviation hub for international & regional airlines'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -648,7 +648,7 @@ tabs:
           -
             text: 'Mainstreaming ICT in governance & public service delivery and developing ICT Incubator Hubs in various regional capitals'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -657,7 +657,7 @@ tabs:
           -
             text: 'Unlock value in uncompleted projects around the country by completing viable projects'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -666,7 +666,7 @@ tabs:
           -
             text: 'Pass legislation for at least 20% of road contracts, awarded to foreign contractors, to be sub-contracted to local contractors'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -675,7 +675,7 @@ tabs:
           -
             text: 'Completely overhaul the Western and Eastern Lines to facilitate the haulage of bulk commodities and transportation of people. Extend the Eastern Rail Line from Kumasi to Paga to facilitate transportation of goods from the North'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -684,7 +684,7 @@ tabs:
           -
             text: 'Activation of the Boankra Inland Port as a result of the operation of the Eastern Line'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -693,7 +693,7 @@ tabs:
           -
             text: 'Developing an integrated Light Rail Transit System for our major cities to connect main business districts with outlying residential locations'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -702,7 +702,7 @@ tabs:
           -
             text: 'Building a Tema-Akosombo Rail Link to tie in with a vibrant and revived Volta Lake transportation system'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -711,7 +711,7 @@ tabs:
           -
             text: 'Expanding the Takoradi Harbour to Sekondi as well as constructing a logistics centre in Sekondi'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -720,7 +720,7 @@ tabs:
           -
             text: 'Constructing new harbours at Jamestown and in Keta'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -729,7 +729,7 @@ tabs:
           -
             text: 'Building, in collaboration with the private sector, new entry points into major cities like Accra, Takoradi, Kumasi and Tamale'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -738,7 +738,7 @@ tabs:
           -
             text: 'Constructing, in collaboration with the private sector, by-passes and interchanges at major intersections including Point 7, Tamale, the Tema Motorway Roundabout, the Suame Roundabout and Oforikrom Intersection in Kumasi, and the Takoradi PTC Roundabout'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -747,7 +747,7 @@ tabs:
           -
             text: 'Reducing the price of aviation fuel to match prices in the region to make our airports more competitive and domestic airlines viable'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -756,7 +756,7 @@ tabs:
           -
             text: 'Sinking at least 25,000 new boreholes and an additional 300 small town water supply systems in the rural areas and small towns. Implement a Water For All Programme to ensure every Ghanaian has access to potable water'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -765,7 +765,7 @@ tabs:
           -
             text: 'Implement Flood Control Interventions by establishing a National Hydrology Authority (NHA) which will be responsible for developing and implementing solutions to the recurring floods'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -774,7 +774,7 @@ tabs:
           -
             text: 'Completing the registration of all residents in Ghana under the National Identification Scheme within the first year of taking office'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -783,7 +783,7 @@ tabs:
           -
             text: 'Implement a quality, affordable Housing For All strategy including working with identifiable trade groups to facilitate the construction of homes for their members through the provision of the appropriate financing guarantees'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
@@ -792,7 +792,7 @@ tabs:
           -
             text: 'Fully implementing section 103 (assignment of pension benefits for housing of workers) of the National Pensions Act, 2008 (Act 766)'
             status: notStarted
-            update: "%Y-%m-%d"
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
