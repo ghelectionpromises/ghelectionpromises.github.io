@@ -6,14 +6,6 @@ tabs:
     icon: clock-o
     sections:
       -
-        header: 'Contract with the#status has four options: notStarted, inProgress, broken, and achieved
-tabs:
-  -
-    id: 100days
-    name: 'First 100 Days'
-    icon: clock-o
-    sections:
-      -
         header: 'Contract with the Ghanaian Voter - 100 Day Plan'
         points:
           -
