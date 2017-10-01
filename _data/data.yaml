@@ -6,7 +6,7 @@ tabs:
     icon: clock-o
     sections:
       -
-        header: 'Contract with the Ghanaian Voter - 100 Day Plan'
+        header: 'Contract with the Ghanaian Voter - 100 Day Plan. Note anything not achieved in 100 days will be labelled as broken'
         points:
           -
             text: 'Focus on appointing competent people to “immediately manage the country and the economy - Acheived”'
@@ -18,7 +18,7 @@ tabs:
             source: 'http://pulse.com.gh/politics/election-2016-bawumia-highlights-what-npp-would-do-first-100-days-in-office-id5134329.html'
           -
             text: 'Concentrate on getting monies wrongfully paid and ensuring fiscal discipline and spending them efficiently'
-            status: inProgress
+            status: broken
             update: '2017-06-15'
             citations:
               - 'http://www.myjoyonline.com/politics/2017/June-15th/pac-lauds-supreme-court-ruling-to-retrieve-looted-state-funds.php'
@@ -26,7 +26,7 @@ tabs:
             source: 'http://www.a1radioonline.com/2016/12/12/this-is-what-president-elect-nana-akufo-addo-will-be-doing-in-his-first-100-days/'
           -
             text: 'The NPP would move “quickly to initiate the National Identification Scheme” which is very “key to formalizing the economy and regenerating taxes” in the country.'
-            status: inProgress
+            status: achieved
             update: '2017-09-15'
             citations:
               - 'http://citifmonline.com/2017/09/15/nana-addo-receives-first-id-card-as-nia-registration-kicks-off/'
@@ -34,7 +34,7 @@ tabs:
             source: 'http://pulse.com.gh/politics/election-2016-bawumia-highlights-what-npp-would-do-first-100-days-in-office-id5134329.html'
           -
             text: 'Settle all debts owed to Ghanaian contractors'
-            status: inProgress
+            status: broken
             update: '2017-07-6'
             citations:
               - 'http://citifmonline.com/2017/07/06/govt-releases-gh¢600m-to-pay-road-contractors/'
