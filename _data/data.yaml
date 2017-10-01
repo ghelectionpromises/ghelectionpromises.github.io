@@ -1060,10 +1060,10 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Restore in full, teacher trainee allowances'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-08-30'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/08/30/teacher-trainee-allowance-ready/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
@@ -1240,10 +1240,10 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
           -
             text: 'Pay all outstanding contributions to pension funds for public sector workers'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-03-01'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/03/01/govt-begins-payment-of-tier-2-pension-contributions/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
