@@ -961,10 +961,10 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Make basic education free to all Ghanaians including Senior High School'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-09-29'
             citations:
-              - ''
+              - 'http://ghana.gov.gh/index.php/news/3972-president-akufo-addo-launches-free-shs'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
