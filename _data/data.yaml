@@ -107,7 +107,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Abolish the 17.5% VAT on imported medicines not produced in the country'
-            status: notStarted
+            status: inProgress
             update: '2017-05-15'
             citations: 
               - 'https://www.myjoyonline.com/business/2017/september-13th/govt-promises-more-tax-reductions-in-2018-budget.php'
@@ -116,11 +116,11 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Abolish the 17.5% VAT on Financial Services'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-04-25'
             citations:
-              - ''
-              - ''
+              - 'http://www.gra.gov.gh/index.php/category/item/632-discontinuation-of-vat-on-financial-services'
+              - 'http://citifmonline.com/2017/04/23/17-5-financial-services-vat-to-reduce-cost-of-services/'
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
@@ -134,20 +134,20 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Abolish the 17.5% VAT on domestic airline tickets'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-04-25'
             citations:
-              - ''
-              - ''
+              - 'http://www.gra.gov.gh/index.php/category/item/628-amendments-to-the-value-added-tax-act-2013-act-870'
+              - 'http://citifmonline.com/2017/04/03/domestic-airfare-drops-as-17-5-vat-is-removed/'
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Reducing VAT for micro and small enterprises from the current 17.5% to the 3% Flat Rate VAT introduced by the Kufuor-led NPP government'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-04-25'
             citations:
-              - ''
-              - ''
+              - 'http://www.gra.gov.gh/index.php/category/item/628-amendments-to-the-value-added-tax-act-2013-act-870'
+              - 'http://taxinsights.ey.com/archive/archive-news/ghana--vat-flat-rate-scheme-introduced.aspx'
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
@@ -373,10 +373,10 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Implement the “One District, One Factory” Initiative'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-08-27'
             citations:
-              - ''
+              - 'https://www.graphic.com.gh/news/general-news/one-district-one-factory-officially-takes-off.html'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
