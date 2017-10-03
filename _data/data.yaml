@@ -18,7 +18,7 @@ tabs:
             source: 'http://pulse.com.gh/politics/election-2016-bawumia-highlights-what-npp-would-do-first-100-days-in-office-id5134329.html'
           -
             text: 'Concentrate on getting monies wrongfully paid and ensuring fiscal discipline and spending them efficiently'
-            status: broken
+            status: inProgress
             update: '2017-06-15'
             citations:
               - 'http://www.myjoyonline.com/politics/2017/June-15th/pac-lauds-supreme-court-ruling-to-retrieve-looted-state-funds.php'
@@ -34,7 +34,7 @@ tabs:
             source: 'http://pulse.com.gh/politics/election-2016-bawumia-highlights-what-npp-would-do-first-100-days-in-office-id5134329.html'
           -
             text: 'Settle all debts owed to Ghanaian contractors'
-            status: broken
+            status: achieved
             update: '2017-07-6'
             citations:
               - 'http://citifmonline.com/2017/07/06/govt-releases-gh¢600m-to-pay-road-contractors/'
@@ -59,13 +59,13 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'An NPP government will enact a Fiscal Responsibility Law (FRL) to   bring comprehensiveness, accountability, transparency and stability to the entire budgetary process.'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-02-01'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
               - ''
             comments: ''
-            source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
+            source: 'http://www.ghanatrade.gov.gh/Trade-News/cabinet-approves-fiscal-responsibility-law-to-cap-fiscal-deficit-to-3-5-of-gdp.html'
           -
             text: 'Formalize the economy through the establishment of a national database, using the National Identification System as the primary identifier, with linkages to the databases of institutions such as the Police, National Health Insurance Scheme (NHIS), Passport Office, Immigration, Courts, Ghana Revenue Authority (GRA), and the Driver and Vehicle Licensing Authority (DVLA)'
             status: inProgress
@@ -125,13 +125,13 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Abolish the 5% VAT on Real Estate sales'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status:achieved
+            update: '2017-03-02'
             citations:
-              - ''
+              - 'https://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
               - ''
             comments: ''
-            source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
+            source: 'http://citifmonline.com/2017/03/02/list-of-taxes-abolished-and-reviewed-by-govt/'
           -
             text: 'Abolish the 17.5% VAT on domestic airline tickets'
             status: achieved
@@ -152,34 +152,34 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Introducing tax credits and other incentives for businesses that hire young graduates from tertiary institutions'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: acheived 
+            update: '2017-03-03'
             citations:
-              - ''
+              - 'https://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
               - ''
             comments: ''
-            source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
+            source: 'https://www.businessghana.com/site/news/business/142367/legal'
           -
             text: 'Reviewing with holding taxes imposed on various sectors (including the mining sector) that have constrained the liquidity of many businesses'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-03-03'
             citations:
-              - ''
+              - 'https://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
               - ''
             comments: ''
-            source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
+            source: 'https://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
       -
         header: 'Additional sources of revenue, and therefore fiscal space to finance these tax reductions'
         points:
           -
             text: 'Broadening of the tax base as a result of formalization of the economy'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: 2017-02-01'
             citations:
-              - ''
+              - 'https://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
               - ''
             comments: ''
-            source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
+            source: 'http://www.ghanatrade.gov.gh/Latest-News/government-moves-to-broaden-tax-base.html'
           -
             text: 'Increase in tax compliance'
             status: notStarted
