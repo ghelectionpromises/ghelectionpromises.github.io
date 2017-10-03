@@ -1411,13 +1411,13 @@ tabs:
         points:
           -
             text: 'Oversee the direct election of Metropolitan, Municipal and District Chief Executives (MMDCEs) within 24 months of election into office, to coincide with the next District Assembly elections in 2019'
-            status: notStarted
-            update: '%Y-%m-%d'
-            citations:
+            status: broken
+            update: '2017-09-'
+            citations: 'http://www.ghelectionpromises.com/single-post/2017/01/16/NPP-Manifesto-Highlights---On-Local-Government'
               - ''
               - ''
             comments: ''
-            source: 'http://www.ghelectionpromises.com/single-post/2017/01/16/NPP-Manifesto-Highlights---On-Local-Government'
+            source: ' http://citifmonline.com/2017/10/02/ghanaians-wont-elect-mmdces-in-2018-o-b-amoah/'
           -
             text: 'Strengthen the role of traditional authorities within the local government system'
             status: notStarted
