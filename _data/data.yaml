@@ -125,7 +125,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Abolish the 5% VAT on Real Estate sales'
-            status:achieved
+            status: achieved
             update: '2017-03-02'
             citations:
               - 'https://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
