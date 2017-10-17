@@ -926,7 +926,7 @@ tabs:
           -
             text: 'Create a Consultative Council which includes researchers, industry and banks to take research findings from the laboratory to the market'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-17'
             citations:
               - ''
               - ''
@@ -935,7 +935,7 @@ tabs:
           -
             text: 'Establish a Manufacturing Plant at the Kwame Nkrumah University of Science and Technology to build prototypes of the inventions and creations of scientists and innovators in the country'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-17'
             citations:
               - ''
               - ''
@@ -944,7 +944,7 @@ tabs:
           -
             text: 'Reintegrate physical education and recreation into mainstream education.'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-17'
             citations:
               - ''
               - ''
@@ -953,7 +953,7 @@ tabs:
           -
             text: 'Ensure that kindergarten places are available for all four-year old children in the country'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-17'
             citations:
               - ''
               - ''
@@ -961,7 +961,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Make basic education free to all Ghanaians including Senior High School'
-            status: inProgress
+            status: achieved
             update: '2017-09-29'
             citations:
               - 'http://ghana.gov.gh/index.php/news/3972-president-akufo-addo-launches-free-shs'
@@ -970,8 +970,8 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Ensure that teachers’ salaries and allowances are paid regularly and on time'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-10-17'
             citations:
               - ''
               - ''
@@ -980,16 +980,16 @@ tabs:
           -
             text: 'Collaborate with GNAT, NAGRAT, and other teaching associations to facilitate an affordable housing scheme for teachers'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-17'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/02/12/teachers-devt-and-conditions-to-be-enhanced-akufo-addo/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Ensure that teachers who upgrade their qualifications and skills are promoted promptly and their salary increases effected immediately'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-10-17'
             citations:
               - ''
               - ''
@@ -998,7 +998,7 @@ tabs:
           -
             text: 'Restore allowances to Arabic/Islamic instructors and introduce Arabic as an optional examinable language at JHS and SHS levels'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-17'
             citations:
               - ''
               - ''
@@ -1007,25 +1007,25 @@ tabs:
           -
             text: 'Provide sporting facilities and revive sporting competitions among schools'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-17'
             citations:
-              - ''
+              - 'https://www.ghanaweb.com/GhanaHomePage/NewsArchive/I-will-champion-Zongo-education-Napo-505455'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Improve the facilities and the curriculum for ICT education at all levels'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-17'
             citations:
-              - ''
+              - 'http://www.myjoyonline.com/news/2017/April-27th/govt-will-ensure-ict-driven-educational-system-akufo-addo-pledges.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Provide free Wifi coverage for senior secondary and tertiary institutions nationwide'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-17'
             citations:
               - ''
               - ''
@@ -1034,25 +1034,25 @@ tabs:
           -
             text: 'Increase the amount of loans under the Student Loan Scheme'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-17'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/09/10/students-loan-trust-fund-raises-loan-amounts/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Establish a Research Fund and restore the Book and Research allowances for lecturers'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-10-17'
             citations:
-              - ''
+              - 'http://www.myjoyonline.com/politics/2017/february-27th/government-releases-book-and-research-allowances-minister.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Abolish the payment of utility bills by students'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-17'
             citations:
               - ''
               - ''
@@ -1060,7 +1060,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Restore in full, teacher trainee allowances'
-            status: inProgress
+            status: achieved
             update: '2017-08-30'
             citations:
               - 'http://citifmonline.com/2017/08/30/teacher-trainee-allowance-ready/'
