@@ -244,82 +244,82 @@ tabs:
         points:
           -
             text: 'Pursuing aggressive industrialization and value-addition to agricultural produce'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'https://www.myjoyonline.com/news/2017/october-15th/agriculture-is-my-strategy-to-change-lives-akufo-addo.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Providing tax and related incentives for manufacturing businesses in sectors such as agro-processing, light industries, pharmaceuticals, petrochemicals, garments and textiles, among others'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'http://www.myjoyonline.com/lifestyle/2017/August-4th/pharmaceutical-companies-urged-to-take-advantage-of-the-huge-ecowas-market.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Providing a reliable and cost effective mix of energy supply for businesses'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'http://www.myjoyonline.com/politics/2017/July-18th/success-of-my-govt-will-be-measured-by-jobs-created-akufo-addo.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Pursuing policies that will reduce interest rates'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Akufo-Addo-s-economy-on-right-track-IEA-565933'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Implementing policies that will reduce the cost of doing business'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'http://www.myjoyonline.com/politics/2017/July-18th/success-of-my-govt-will-be-measured-by-jobs-created-akufo-addo.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Stabilizing the currency'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'http://www.ghana.gov.gh/index.php/media-center/news/482-bog-measures-helping-to-stabilize-the-cedi'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Providing incentives to the hospitality and creative industries that will enable them create jobs'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Investing in skills training and apprenticeships'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'https://www.ghanaweb.com/GhanaHomePage/business/Akufo-Addo-replaces-YES-with-NEIP-55871'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Promoting exports, especially of value-added agricultural produce and light manufactures'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'https://www.myjoyonline.com/business/2017/August-15th/government-moves-to-increase-exports-to-the-us-from-12m-to-500m.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
@@ -329,45 +329,45 @@ tabs:
           -
             text: 'Establishing an Industrial Development Fund (IDF) to finance critical private sector industrial initiatives'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-20'
             citations:
               - ''
-              - ''
+              - 'http://www.peacefmonline.com/pages/business/economy/201709/328663.php'
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Re-orient energy tariff policy to reduce the burden on businesses'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'https://www.myjoyonline.com/business/2017/September-27th/reduction-in-electricity-tariff-will-take-effect-in-2018-boakye-agyarko.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Launch a comprehensive National Plan for Entrepreneurship and Innovation that will invest in supporting young businesses and start-ups'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'https://www.ghanaweb.com/GhanaHomePage/election2008/President-Akufo-Addo-launches-national-entrepreneurship-and-innovations-plan-558546?channel=D1'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Develop, in collaboration with trade unions, a database for trained apprentices and artisans, and establish a National Apprentice Recruitment Agency'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'https://www.graphic.com.gh/news/general-news/artisans-earmarked-for-proficiency-skills-training.htm'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Creating an information portal and set up a task force to assist our youth and artisans in making their products and services visible on a local, national, and global scale.'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
@@ -382,17 +382,17 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Pass legislation to require that at least 70% of all Government of Ghana, taxpayer-financed contracts and procurements be executed by local corporate entities'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-10-20'
             citations:
-              - ''
+              - 'http://www.peacefmonline.com/pages/politics/politics/201706/317501.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'In addition to the above introduce a policy requiring that 30% of the required 70% be sourced from entities owned by women, persons with disability, and those established under the Youth Enterprise Fund (YEF)'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-10-20'
             citations:
               - ''
               - ''
@@ -928,7 +928,7 @@ tabs:
             status: notStarted
             update: '2017-10-17'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
@@ -937,7 +937,7 @@ tabs:
             status: notStarted
             update: '2017-10-17'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
@@ -946,7 +946,7 @@ tabs:
             status: notStarted
             update: '2017-10-17'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
@@ -955,7 +955,7 @@ tabs:
             status: notStarted
             update: '2017-10-17'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
@@ -973,7 +973,7 @@ tabs:
             status: inProgress
             update: '2017-10-17'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
@@ -991,7 +991,7 @@ tabs:
             status: inProgress
             update: '2017-10-17'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
@@ -1000,7 +1000,7 @@ tabs:
             status: notStarted
             update: '2017-10-17'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
@@ -1027,7 +1027,7 @@ tabs:
             status: notStarted
             update: '2017-10-17'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/04/27/free-wifi-policy-for-shs-tertiary-to-begin-soon-nana-addo/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
@@ -1054,7 +1054,7 @@ tabs:
             status: notStarted
             update: '2017-10-17'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
@@ -1096,8 +1096,8 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
           -
             text: 'Restore trainee nurses’ allowances in full'
-            status: achieved
-            update: '2017-10-10'
+            status: notStarted
+            update: '%Y-%m-%d'
             citations:
               - ''
               - ''
