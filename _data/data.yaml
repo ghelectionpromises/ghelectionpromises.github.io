@@ -1096,8 +1096,8 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
           -
             text: 'Restore trainee nurses’ allowances in full'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-10-10'
             citations:
               - ''
               - ''
