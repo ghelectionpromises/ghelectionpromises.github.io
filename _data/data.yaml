@@ -409,63 +409,63 @@ tabs:
           -
             text: 'End “DUMSOR” in the short-term, through government liquidity injection, restructuring of debts, and securing of firm commitments for the reliable supply of fuel'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/11/16/our-efforts-ended-dumsor-oppong-nkrumah-insists/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Reduce taxes on electricity tariffs to provide immediate relief to households and industry'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'https://www.myjoyonline.com/news/2017/November-15th/budget-2018-electricity-consumers-to-benefit-from-13-reduction.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Conduct a technical audit on all power sector infrastructure and develop and implement a 10-year Power Sector Master Plan to meet our medium to long-term energy needs'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'http://www.myjoyonline.com/business/2017/february-21st/govt-is-reviewing-power-agreements-signed-by-mahama-akufo-addo.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Develop and implement an Energy Sector Financial Restructuring and Recovery Plan, incorporating, a liquidity management mechanism for VRA, Electricity Company of Ghana (ECG), Northern Electricity Department (NED) and the Bulk Oil Distribution Companies, BDCs'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Ensure that there is sufficient Reserve Margin – the safety cushion we need to prevent blackouts – to ensure the stability of the system'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Full-Text-2018-budget-statement-Part-2-600916'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Build solar parks in the northern part of the country. To achieve this, we will provide investment tax credits to owners of commercial, industrial, and utility scale solar photovoltaic (PV) systems to take a one-time tax credit of qualified installed costs'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'https://renewablesnow.com/news/italys-eni-to-build-20-mw-solar-park-in-ghana-591225/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Ensure local supply of solar panels to meet the requirement of our policy proposals, by establishing a Renewable Energy Industrial Zone where the private sector will be supported to build factories for the production and assembling of the full components of solar power systems'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
@@ -475,72 +475,72 @@ tabs:
           -
             text: 'Improve transparency in the management of our oil and gas resources with the passing of the Right to Information Bill'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/11/02/july-2018-latest-target-for-passage-of-rti-bill/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Accelerate oil exploration in the Voltarian Basin (Northern, Volta, Ashanti, Eastern, and Brong Ahafo), as well as in the Keta and Accra Basins to enhance Ghana’s potential for increasing oil and gas production and to build these areas into industrial growth poles'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'http://www.myjoyonline.com/business/2017/July-6th/akufo-addo-eyes-fourth-fpso-as-search-for-volta-basin-oil-goes-on.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Develop the Western Region into a regional oil services hub with a first class port facility, as well as the relocation of the headquarters of GNPC to the region'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/07/08/gnpc-begins-processes-to-relocate-to-takoradi/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Aggressively invest in education and skills enhancement of Ghanaians to manage the oil and gas sector under an “Accelerated Oil Capacity Development Programme”'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'http://www.reportingoilandgas.org/akufo-addo-launches-accelerated-oil-and-gas-capacity-prog/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Support the growth of local competition by redeeming government obligations to the bulk oil distribution companies'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'http://ghanatrade.com.gh/Trade-News/npp-to-redeem-debts-owed-bdcs.html'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Between 2017 and 2020, primarily allocate revenue from oil to infrastructure, health, education and agriculture'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Full-Text-2018-budget-statement-Part-2-600916'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Leverage oil revenue to complete the Accra-Kumasi-Paga rail line connections and the rehabilitation of the Western and Eastern Rail Lines'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/03/02/kumasi-paga-rail-line-others-captured-in-2017-budget/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Review and further amend the Petroleum Revenue Management Act 2011 (Act 815) to support investment of revenue from oil in high-impact strategic social and economic infrastructure'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
