@@ -182,26 +182,26 @@ tabs:
             source: 'http://www.ghanatrade.gov.gh/Latest-News/government-moves-to-broaden-tax-base.html'
           -
             text: 'Increase in tax compliance'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/08/05/gra-intensifies-tax-compliance-with-e-payment/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Reduced government expenditure as a result of increased collaboration with the private sector and prioritization of government expenditure'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2012-12-20'
             citations:
-              - ''
+              - 'https://www.ghanaweb.com/GhanaHomePage/NewsArchive/ISSER-2018-post-budget-analysis-Putting-Ghana-back-to-work-604988'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Savings from the reduction of interest rates paid on the country’s debt stock'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
               - ''
               - ''
@@ -209,17 +209,17 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Increase in oil and gas revenues from TEN and SANKOFA fields'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: acheived 
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/08/14/ghanas-oil-revenue-rises-by-67-in-first-half-of-2017-bog/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Elimination of corruption, especially in procurement of goods and services, which is estimated at about 1.5% of GDP annually'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-2026+0'
             citations:
               - ''
               - ''
