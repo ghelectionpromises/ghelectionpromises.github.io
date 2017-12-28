@@ -1807,62 +1807,62 @@ tabs:
         points:
           -
             text: 'Ensure the prompt payment of royalties due Chiefs, Queen Mothers and Traditional Councils'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: acheived 
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Akufo-Addo-increases-allowances-for-chiefs-queen-mothers-598100'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
           -
             text: 'Provide government support to the institution of Chieftaincy in the performance of their duties, their evolution and further modernization'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghana.gov.gh/index.php/news/3432-we-ll-collaborate-with-chiefs-to-address-our-people-s-concerns'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
           -
             text: 'Support the National House of Chiefs to codify and systematize traditional laws and culture'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
           -
             text: 'Involve Chiefs, Queen Mothers and Traditional Authorities in the afforestation and greening of Ghana with the support of the Forestry Commission'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/12/03/agric-minister-urges-one-chief-one-farm/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
           -
             text: 'Foster a collaboration of Government agencies and traditional leaders that will centre on the protection of water bodies and conservation of the environment'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghananewsagency.org/politics/government-courts-support-of-chiefs-to-fight-galamsey-119416'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
           -
             text: 'Forge a new and formal collaboration between Chiefs, Queen Mothers and Traditional Authorities with NADMO, so that relief assistance can be better managed in our local communities during natural disasters and other emergencies'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
           -
             text: 'Consult traditional authorities on appointments to local government institutions'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
               - ''
               - ''
@@ -1870,19 +1870,19 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
           -
             text: 'Ensure that religious bodies in the health sector receive their NHIS payments promptly and we commit to payments of existing debts expeditiously'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Government-settles-GH-539-million-NHIS-debt-562003'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
           -
             text: 'Create the enabling legislative and economic environment for philanthropy to blossom and promote a new era of giving'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Societ'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
