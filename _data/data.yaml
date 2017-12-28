@@ -1474,154 +1474,154 @@ tabs:
         points:
           -
             text: 'Set up a Youth Development Authority (YDA) to harmonise and coordinate all government-sponsored youth initiatives and policies'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghananewsagency.org/social/a-body-created-to-co-ordinate-government-sponsored-youth-initiatives-115608'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Establish a Youth Enterprises Fund (YEF) that will provide funding and business development services for businesses owned by young entrepreneurs, especially start-ups'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: Achieved
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.yes.gov.gh/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Develop industrial parks in all regions targeting young Ghanaians, who start or wish to start small businesses'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.businessworldghana.com/govt-set-10-industrial-parks/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Offer tax incentives to young entrepreneurs to encourage them to initiate start-ups'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.businessghana.com/site/news/Business/142367/2017-budget:-Highlights-of-tax-reliefs'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Introduce  tax credits and other incentives for companies that hire young graduates from tertiary institutions'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.businessghana.com/site/news/Business/142367/2017-budget:-Highlights-of-tax-reliefs'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Concentrate on ICT training to create job avenues locally and offshore for our youth'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://nita.gov.gh/government-to-equip-youth-with-ict-skills/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Institute a Buy-Local policy for Government agencies with regards to ICT to ensure that applications and software are procured from local ICT firms'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Modernize sports through the provision of the right legal framework, by enacting the comprehensive Sports Bill initiated under President Kufuor'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Ensure that District Assemblies fully participate in sports development and promotion'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Develop, in partnership with the private sector, Youth Development & Sports Centres in all Regions. Each centre will house a fully-equipped library, ICT hub, social hall, multi-purpose pitches and courts'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.modernghana.com/sports/823009/govt-to-build-10-multipurpose-centres-and-15-sporting-facil.html'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Complete the construction of the University of Ghana stadium started by the Kufuor-led NPP government'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.myjoyonline.com/sports/2017/august-29th/govt-releases-gh10m-for-completion-of-university-of-ghana-stadium.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Pursue the vision of providing modern multi-sport stadia for the regions currently without one, namely Brong Ahafo, Eastern, Upper East, Upper West and Volta'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://ghanasoccernet.com/government-will-fulfill-promise-to-build-five-stadia-vice-president-bawumia'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Establish a special unit at the Ministry to develop and promote sporting disciplines other than football, and to concentrate on the revival of school sports'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Encourage the private sector to provide funding for sports through the establishment of incentive packages, as well creating a Sports Fund to support the financing of sports'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.myjoyonline.com/sports/2017/November-15th/budget-2018-government-to-set-up-sports-fund.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Establish three sports colleges in collaboration with the private sector'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Develop a Youth in Sports module to support young sportsmen and women and to create job opportunities for them'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghananewsagency.org/sports/yea-signs-agreement-with-moys-to-train-5-000-youth-in-sports-124131'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
           -
             text: 'Invest in a special Women-In-Sports programme to help unearth and support female athletes and sports talents across the country'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Youth-and-Sports'
