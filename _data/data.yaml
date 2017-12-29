@@ -563,53 +563,53 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Creation of a new, “Western North” Administrative Region in order to open it up for accelerated development'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-2017'
             citations:
-              - ''
+              - 'http://www.ghanaiantimes.com.gh/western-north-region-to-be-created-soon-president/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Establishment of a Coastal Development Authority (CDA)'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/07/14/nana-addo-approves-act-establishing-3-devt-authorities/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Establishment of a Middle Belt Development Authority (MBA)'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/07/14/nana-addo-approves-act-establishing-3-devt-authorities/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Restructuring of the Savannah Accelerated Development Authority (SADA)” to the original design and mandate of the Northern Development Authority (NDA)'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/07/14/nana-addo-approves-act-establishing-3-devt-authorities/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Establishment of a Zongo Development Fund to invest in education, training, improved infrastructure (targetting health and sanitation), support local businesses and community security.'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved 
+            update: '2017-12-2017'
             citations:
-              - ''
+              - 'http://www.ghananewsagency.org/social/parliament-passes-zongo-development-fund-bill-124804'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Implement the Infrastructure for Poverty Eradication Programme (IPEP) under which every constituency will be allocated the equivalent of $1 million annually for developmental work'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: Broken
+            update: '2017-12-2017'
             citations:
               - ''
               - ''
@@ -638,10 +638,10 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Development of an aviation hub for international & regional airlines'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-2017
             citations:
-              - ''
+              - 'http://presidency.gov.gh/index.php/2017/10/25/ghana-set-to-become-aviation-hub-in-west-africa-president-akufo-addo/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
@@ -656,145 +656,145 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Unlock value in uncompleted projects around the country by completing viable projects'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-2017'
             citations:
-              - ''
+              - 'http://citifmonline.com/2016/12/23/well-complete-mahama-projects-nana-addo/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Pass legislation for at least 20% of road contracts, awarded to foreign contractors, to be sub-contracted to local contractors'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.myjoyonline.com/business/2017/may-26th/govt-supports-regulatory-body-for-contractors.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Completely overhaul the Western and Eastern Lines to facilitate the haulage of bulk commodities and transportation of people. Extend the Eastern Rail Line from Kumasi to Paga to facilitate transportation of goods from the North'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/08/08/western-rail-line-will-be-completed-by-2020-joe-ghartey/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Activation of the Boankra Inland Port as a result of the operation of the Eastern Line'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-2017'
             citations:
-              - ''
+              - 'http://www.ghanaiantimes.com.gh/govt-to-reactivate-boankra-inland-port-project/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Developing an integrated Light Rail Transit System for our major cities to connect main business districts with outlying residential locations'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/11/01/govt-seeks-transaction-adviser-for-rail-transit-system-in-accra/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Building a Tema-Akosombo Rail Link to tie in with a vibrant and revived Volta Lake transportation system'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://dailyguideafrica.com/tema-akosombo-rail-project-begins/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Expanding the Takoradi Harbour to Sekondi as well as constructing a logistics centre in Sekondi'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.ghanaweb.com/GhanaHomePage/business/20-million-Sekondi-Fishing-Harbour-expansion-work-progress-505639'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Constructing new harbours at Jamestown and in Keta'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.graphic.com.gh/business/business-news/govt-begins-feasibility-study-into-construction-of-two-fishing-harbours.html'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Building, in collaboration with the private sector, new entry points into major cities like Accra, Takoradi, Kumasi and Tamale'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Constructing, in collaboration with the private sector, by-passes and interchanges at major intersections including Point 7, Tamale, the Tema Motorway Roundabout, the Suame Roundabout and Oforikrom Intersection in Kumasi, and the Takoradi PTC Roundabout'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.graphic.com.gh/news/general-news/motorway-repair-works-progress-steadily.html'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Reducing the price of aviation fuel to match prices in the region to make our airports more competitive and domestic airlines viable'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2016/08/20/govt-commended-for-reducing-price-of-aviation-fuel/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Sinking at least 25,000 new boreholes and an additional 300 small town water supply systems in the rural areas and small towns. Implement a Water For All Programme to ensure every Ghanaian has access to potable water'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://presidency.gov.gh/index.php/2017/12/01/govt-committed-to-building-modern-vibrant-agric-sector-president-akufo-addo/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Implement Flood Control Interventions by establishing a National Hydrology Authority (NHA) which will be responsible for developing and implementing solutions to the recurring floods'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Completing the registration of all residents in Ghana under the National Identification Scheme within the first year of taking office'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: broken
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.modernghana.com/news/823475/national-id-project-officially-begins-in-january-2018.html'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Implement a quality, affordable Housing For All strategy including working with identifiable trade groups to facilitate the construction of homes for their members through the provision of the appropriate financing guarantees'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Akufo-Addo-breaks-ground-for-construction-of-2000-housing-units-at-Appolonia-600561'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Fully implementing section 103 (assignment of pension benefits for housing of workers) of the National Pensions Act, 2008 (Act 766)'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-11-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
@@ -808,64 +808,64 @@ tabs:
         points:
           -
             text: 'Target 30,000 hectares (ha) of degraded areas annually within and outside forest reserves for reforestation and plantation development'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.ghanacrusader.com/17000-youth-to-be-recruited-under-governments-afforestation-project/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
           -
             text: 'Support the annual establishment of 1,000 hectares of bamboo and rattan plantations and encourage individuals and private sector involvement through the provision of subsidized planting materials'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: broken
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
           -
             text: 'Establish the Clean Rivers Programme (CRP) to protect our water catchment areas'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
           -
             text: 'Commit to ensuring that turnaround time for land registration is reduced to 30 working days'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.myjoyonline.com/business/2017/October-17th/lands-commission-goes-digital-to-stem-delays-corruption.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
           -
             text: 'Enact a consolidated Mineral Revenue Management Law, to guide the use of mineral revenues in strategic sectors of our economy'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.graphic.com.gh/news/general-news/govt-cedes-10-of-mineral-royalties-share-to-assemblies.html'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
           -
             text: 'Structure the small scale mining industry so that its activities can take place within guidelines set up under the appropriate regulations.'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.myjoyonline.com/news/2017/December-28th/over-1400-miners-to-be-vetted-as-govt-spends-2m-on-operation-vanguard-every-3months.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
           -
             text: 'Support the enhancement of the ecotourism industry'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Natural-Resources'
@@ -880,37 +880,37 @@ tabs:
         points:
           -
             text: 'Establish a Presidential Advisory Council for Science and Technology (PACST) as an advisory group to directly advise the President on all matters and policies regarding science, technology and innovation'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.unesco.org/new/en/member-states/single-view/news/is_science_starting_to_oil_the_wheels_of_ghanas_developme/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Science-Technology-Innovation-and-the-Environment'
           -
             text: 'Establish Regional Technology Parks to expand the research and development capabilities of the country'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - ''http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Science-Technology-Innovation-and-the-Environment'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Science-Technology-Innovation-and-the-Environment'
           -
             text: 'Establish at least 3 Ghana Centres of Excellence (GCEs) across the country by the end of 2020 covering various themes including biomedical engineering, electronics and electronic assembly, building technology and energy engineering'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Science-Technology-Innovation-and-the-Environment'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Science-Technology-Innovation-and-the-Environment'
           -
             text: 'Expand STEM scholarships to support the national policy of achieving 60:40 student ratio for the Sciences as compared to the Humanities'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghananewsagency.org/education/science-teachers-urged-to-be-innovative-and-practical-124874'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Science-Technology-Innovation-and-the-Environment'
@@ -1205,36 +1205,36 @@ tabs:
           -
             text: 'Amend the Disability Act to bring it in line with the UN Convention on Disability, and pass appropriate Legislative Instruments for the implementation of the Mental Health Act, 2012 (Act 846) and the Disability Act, 2006 (Act 715)'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.peacefmonline.com/pages/local/news/201706/318956.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
           -
             text: 'Enforce section 18 of the Disability Act that provides for free education for persons with disability'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghananewsagency.org/politics/-free-education-has-come-to-stay-president-126769'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
           -
             text: 'Require caterers in the Ghana School Feeding Programme to buy and use foodstuff from local farmers'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: Acheived 
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghananewsagency.org/social/government-to-promote-economic-opportunities-for-women-124971'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
           -
             text: 'Fully implement section 103 (assignment of pension benefits for housing of workers) of the National Pensions Act, 2008 (Act 766)'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
@@ -1250,54 +1250,54 @@ tabs:
           -
             text: 'Use information technology to decentralise and automate pension payments and establish desks in each District Assembly for this purpose'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
           -
             text: 'Provide the aged with a Freedom Pass to enable them ride for free on all public transportation'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.myjoyonline.com/news/2017/july-2nd/govt-streamlining-administration-of-pensions-akuffo-addo.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
           -
             text: 'Appoint women to at least 30% of available public office positions'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: broken
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.myjoyonline.com/politics/2017/july-18th/akufo-addo-admits-failure-to-meet-30-benchmark-of-female-appointees.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
           -
             text: 'Set aside 50% of Microfinance and Small Loan Centre (MASLOC) funds for female applicants'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://ghheadlines.com/agency/ghana-business-news/20170308/38230182/ghana-government-to-set-aside-50-masloc-funds-for-female-applicants'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
           -
             text: 'Introduce a District Integrated Social Services programme to manage social welfare'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
           -
             text: 'Reduce the Kayayei (Head Porters) phenomenon. Initiatives include providing training and exemption from market tolls'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.graphic.com.gh/news/general-news/kayayei-tax-abolished-2017-budget.html'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Social-Development'
@@ -1312,89 +1312,89 @@ tabs:
         points:
           -
             text: 'Establish, by an Act of Parliament, an Office of the Special Prosecutor to investigate and prosecute political officeholders and politicians involved in corruption'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.myjoyonline.com/politics/2017/November-14th/special-prosecutors-bill-finally-passed.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
           -
             text: 'Require the President to within 14 days, forward a list of appointments, made in pursuant of Chapter 24 of the Constitution, to the Auditor General, that the Auditor General publish periodically the list of all persons appointed under Chapter 24 of the Constitution'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: broken
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.graphic.com.gh/news/general-news/delay-in-appointment-of-executive-secretary-is-causing-anxiety-at-nlc.html'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
           -
             text: 'Amend the law relating to asset declaration to provide for sanctions which may include forfeiture of appointment'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
           -
             text: 'Establish an automatic mechanism for transfer of statutory funds to designated agencies such as GETFund as stipulated by law.'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
           -
             text: 'Amend sections 3, 151,and 239-257 of the Criminal Offences Act, 1960 (Act29), to make corruption a felony rather than a misdemeanour'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'https://www.graphic.com.gh/news/general-news/government-to-amend-criminal-offences-act.html'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
           -
             text: 'Reform laws to set time limits within which an appointing authority must fill any vacancy or confirm a person acting in that office where that institution has a watchdog role'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
           -
             text: 'Ensure the strict enforcement of the Public Procurement Act, 2003 (Act 663)'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.thestatesmanonline.com/index.php/business/3179-asempa-budget-triggers-jubilation-govt-abolishes-nuisance-taxes'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
           -
             text: 'Ensure the passage of the Right to Information bill'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: inProgress
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://citifmonline.com/2017/11/02/july-2018-latest-target-for-passage-of-rti-bill/'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
           -
             text: 'Ensure transparency by establishing a transaction price database'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
-              - ''
+              - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifest-Highlights---On-Governance-Corruption-and-Public-Accountability'
           -
             text: 'Sponsor the establishment of an interactive website for public reporting of corrupt practices in accordance with the Whistle Blower’s Act, 2006 (Act 720)'
             status: notStarted
-            update: '%Y-%m-%d'
+            update: '2017-12-20'
             citations:
               - ''
               - ''
