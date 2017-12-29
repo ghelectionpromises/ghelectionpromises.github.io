@@ -1897,8 +1897,8 @@ tabs:
         points:
           -
             text: 'NPP will refund monies of DKM creditors – Obiri Boahen'
-            status: notStarted
-            update: '%Y-%m-%d'
+            status: achieved
+            update: '2017-12-20'
             citations:
               - ''
               - ''
