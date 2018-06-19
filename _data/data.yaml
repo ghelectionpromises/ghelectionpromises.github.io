@@ -107,7 +107,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Abolish the 17.5% VAT on imported medicines not produced in the country'
-            status: inProgress
+            status: achieved
             update: '2017-05-15'
             citations: 
               - 'https://www.myjoyonline.com/business/2017/september-13th/govt-promises-more-tax-reductions-in-2018-budget.php'
@@ -1015,7 +1015,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Improve the facilities and the curriculum for ICT education at all levels'
-            status: notStarted
+            status: inProgress
             update: '2017-10-17'
             citations:
               - 'http://www.myjoyonline.com/news/2017/April-27th/govt-will-ensure-ict-driven-educational-system-akufo-addo-pledges.php'
@@ -1762,7 +1762,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
           -
             text: 'Establish a Creative Arts Council to coordinate and harmonize the various interests and fragmented associations into a well-functioning body to protect the interests of members'
-            status: notStarted
+            status: achieved
             update: '2017-12-20'
             citations:
               - 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Tourism-Cultural-and-Creative-Arts'
