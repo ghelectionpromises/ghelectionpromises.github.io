@@ -408,7 +408,7 @@ tabs:
         points:
           -
             text: 'End “DUMSOR” in the short-term, through government liquidity injection, restructuring of debts, and securing of firm commitments for the reliable supply of fuel'
-            status: notStarted
+            status: achieved
             update: '2017-11-20'
             citations:
               - 'http://citifmonline.com/2017/11/16/our-efforts-ended-dumsor-oppong-nkrumah-insists/'
@@ -563,7 +563,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Creation of a new, “Western North” Administrative Region in order to open it up for accelerated development'
-            status: inProgress
+            status: achieved
             update: '2017-12-2017'
             citations:
               - 'http://www.ghanaiantimes.com.gh/western-north-region-to-be-created-soon-president/'
@@ -880,7 +880,7 @@ tabs:
         points:
           -
             text: 'Establish a Presidential Advisory Council for Science and Technology (PACST) as an advisory group to directly advise the President on all matters and policies regarding science, technology and innovation'
-            status: inProgress
+            status: achieved
             update: '2017-12-20'
             citations:
               - 'http://www.unesco.org/new/en/member-states/single-view/news/is_science_starting_to_oil_the_wheels_of_ghanas_developme/'
@@ -1033,7 +1033,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Increase the amount of loans under the Student Loan Scheme'
-            status: notStarted
+            status: achieved
             update: '2017-10-17'
             citations:
               - 'http://citifmonline.com/2017/09/10/students-loan-trust-fund-raises-loan-amounts/'
@@ -1051,7 +1051,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
           -
             text: 'Abolish the payment of utility bills by students'
-            status: notStarted
+            status: achieved
             update: '2017-10-17'
             citations:
               - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Education'
@@ -1816,7 +1816,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
           -
             text: 'Provide government support to the institution of Chieftaincy in the performance of their duties, their evolution and further modernization'
-            status: notStarted
+            status: achieved
             update: '2017-12-20'
             citations:
               - 'http://www.ghana.gov.gh/index.php/news/3432-we-ll-collaborate-with-chiefs-to-address-our-people-s-concerns'
