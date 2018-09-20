@@ -83,7 +83,7 @@ tabs:
             status: notStarted
             update: '2017-07-13'
             citations: 
-              - 'https://www.myjoyonline.com/business/2017/september-13th/govt-promises-more-tax-reductions-in-2018-budget.php'
+             - 'https://www.myjoyonline.com/business/2017/september-13th/govt-promises-more-tax-reductions-in-2018-budget.php'
               - ''
             comments: ''
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
@@ -1843,7 +1843,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
           -
             text: 'Foster a collaboration of Government agencies and traditional leaders that will centre on the protection of water bodies and conservation of the environment'
-            status: inProgress
+            status: achieved
             update: '2017-12-20'
             citations:
               - 'http://www.ghananewsagency.org/politics/government-courts-support-of-chiefs-to-fight-galamsey-119416'
