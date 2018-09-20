@@ -227,7 +227,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/10/NPP-Manifesto-Highlights---On-Economic-Stability'
           -
             text: 'Plugging leakages in the administration of public finances. The Auditor General’s Report has indicated that between 2012 and 2014, GH¢5.9 billion of government funds cannot be accounted for'
-            status: notStarted
+            status: inProgress
             update: '%Y-%m-%d'
             citations:
               - ''
@@ -262,7 +262,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Providing a reliable and cost effective mix of energy supply for businesses'
-            status: notStarted
+            status: inProgress
             update: '2017-10-20'
             citations:
               - 'http://www.myjoyonline.com/politics/2017/July-18th/success-of-my-govt-will-be-measured-by-jobs-created-akufo-addo.php'
@@ -271,7 +271,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Pursuing policies that will reduce interest rates'
-            status: notStarted
+            status: inProgress
             update: '2017-10-20'
             citations:
               - 'https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Akufo-Addo-s-economy-on-right-track-IEA-565933'
@@ -280,7 +280,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/11/NPP-Manifesto-Highlights---On-Trade-and-Industry'
           -
             text: 'Implementing policies that will reduce the cost of doing business'
-            status: notStarted
+            status: inProgress
             update: '2017-10-20'
             citations:
               - 'http://www.myjoyonline.com/politics/2017/July-18th/success-of-my-govt-will-be-measured-by-jobs-created-akufo-addo.php'
@@ -462,7 +462,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Ensure local supply of solar panels to meet the requirement of our policy proposals, by establishing a Renewable Energy Industrial Zone where the private sector will be supported to build factories for the production and assembling of the full components of solar power systems'
-            status: notStarted
+            status: inProgress
             update: '2017-11-20'
             citations:
               - 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
@@ -647,7 +647,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/04/NPP-Manifesto-Highlights---On-Growth-and-Infrastructure'
           -
             text: 'Mainstreaming ICT in governance & public service delivery and developing ICT Incubator Hubs in various regional capitals'
-            status: notStarted
+            status: inProgress
             update: '%Y-%m-%d'
             citations:
               - ''
@@ -1159,7 +1159,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
           -
             text: 'Make sure existing hospitals and clinics are adequately supplied with basic drugs, gloves, syringes, oxygen, and anti-snake serum'
-            status: notStarted
+            status: inProgress
             update: '2017-11-20'
             citations:
               - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
@@ -1168,7 +1168,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
           -
             text: 'Establish centres at all levels of our healthcare delivery system for screening, diagnosis, early detection and prevention of cancers, paid for under the restructured and revitalised NHIS'
-            status: notStarted
+            status: inProgress
             update: '2017-11-20'
             citations:
               - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
@@ -1420,7 +1420,7 @@ tabs:
             source: ' http://citifmonline.com/2017/10/02/ghanaians-wont-elect-mmdces-in-2018-o-b-amoah/'
           -
             text: 'Strengthen the role of traditional authorities within the local government system'
-            status: notStarted
+            status: inProgress
             update: '2017-12-20'
             citations:
               - 'http://www.ghelectionpromises.com/single-post/2017/01/16/NPP-Manifesto-Highlights---On-Local-Government'
@@ -1852,7 +1852,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
           -
             text: 'Forge a new and formal collaboration between Chiefs, Queen Mothers and Traditional Authorities with NADMO, so that relief assistance can be better managed in our local communities during natural disasters and other emergencies'
-            status: notStarted
+            status: inProgress
             update: '2017-12-20'
             citations:
               - 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
@@ -1861,7 +1861,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/09/28/NPP-Manifesto-Highlights-Promises---Chieftaincy-Religious-Affairs-and-Civil-Society'
           -
             text: 'Consult traditional authorities on appointments to local government institutions'
-            status: notStarted
+            status: inProgress
             update: '2017-12-20'
             citations:
               - ''
