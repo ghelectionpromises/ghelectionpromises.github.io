@@ -417,13 +417,13 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
           -
             text: 'Reduce taxes on electricity tariffs to provide immediate relief to households and industry'
-            status: inProgress
-            update: '2017-11-20'
+            status: achieved
+            update: '2018-09-21'
             citations:
               - 'https://www.myjoyonline.com/news/2017/November-15th/budget-2018-electricity-consumers-to-benefit-from-13-reduction.php'
               - ''
             comments: ''
-            source: 'http://www.ghelectionpromises.com/single-post/2016/12/20/NPP-Manifesto-Highlights---On-Energy-and-Petroleum'
+            source: 'http://citifmonline.com/2018/03/05/purc-reduces-electricity-tariffs-17-5-for-homes-30-for-businesses/'
           -
             text: 'Conduct a technical audit on all power sector infrastructure and develop and implement a 10-year Power Sector Master Plan to meet our medium to long-term energy needs'
             status: inProgress
@@ -1150,7 +1150,7 @@ tabs:
             source: 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
           -
             text: 'Work with the private sector to establish trauma centres within hospitals along the main highways to facilitate medical treatment of citizens in cases of accidents'
-            status: notStarted
+            status: inProgress
             update: '2017-11-20'
             citations:
               - 'http://www.ghelectionpromises.com/single-post/2017/01/14/NPP-Manifesto-Highlights---On-Health'
